@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="DockerRunConfigurationConverterProvider" />
+    <converter id="cucumber.js-run-configuration" />
+    <converter id="js-debug-configuration-converter" />
+    <converter id="js-predefined-libraries-merged" />
+  </applied-converters>
+  <project-files>
+    <file path="/Users/apple/WebstormProjects/MILiveTemplates/.idea/AA.iml" timestamp="1569916059000" />
+    <file path="/Users/apple/WebstormProjects/MILiveTemplates/.idea/codeStyles/Project.xml" timestamp="1569916363000" />
+    <file path="/Users/apple/WebstormProjects/MILiveTemplates/.idea/codeStyles/codeStyleConfig.xml" timestamp="1569916363000" />
+    <file path="/Users/apple/WebstormProjects/MILiveTemplates/.idea/misc.xml" timestamp="1569916059000" />
+    <file path="/Users/apple/WebstormProjects/MILiveTemplates/.idea/modules.xml" timestamp="1569916059000" />
+    <file path="/Users/apple/WebstormProjects/MILiveTemplates/.idea/workspace.xml" timestamp="1569933547000" />
+  </project-files>
+</conversion>
+

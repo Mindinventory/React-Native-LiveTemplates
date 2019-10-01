@@ -1,0 +1,13 @@
+plugins {
+    id 'org.jetbrains.intellij' version '0.4.10'
+}
+
+group 'MILiveTemplate'
+version '0.1'
+
+// See https://github.com/JetBrains/gradle-intellij-plugin/
+intellij {
+    version '2019.1.3'
+    alternativeIdePath '/Applications/WebStorm.app'
+    intellij.updateSinceUntilBuild false
+}

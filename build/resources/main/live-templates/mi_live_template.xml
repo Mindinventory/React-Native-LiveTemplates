@@ -1,0 +1,252 @@
+<templateSet group="MILiveTemplate">
+    <template
+            name="classcomponent"
+            description="Create the class with react component with necessary methods and state without redux"
+            toReformat="true"
+            toShortenFQNames="false"
+            value="import React from 'react';
+import {View} from 'react-native';
+
+class $START$ extends React.Component {
+    static navigationOptions = {
+        title: null,
+    };
+
+    constructor(props) {
+    super(props);
+    this.state = {}
+    }
+
+    componentWillMount() {
+    }
+
+    componentDidMount() {
+    }
+
+    componentDidUpdate() {
+    }
+
+    componentWillUnmount() {
+    }
+
+    render() {
+    return (
+    &lt;View&gt;
+
+    &lt;/View&gt;
+    );
+    }
+    }
+
+    export default $START$;">
+        <variable name="START" expression="" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="MILiveTemplate" value="true"/>
+        </context>
+    </template>
+
+    <template
+            name="classcomponentwithredux"
+            description="Create the class with react component with necessary methods and state with redux"
+            toReformat="true"
+            toShortenFQNames="false"
+            value="import React from 'react';
+import {View} from 'react-native';
+import {connect} from 'react-redux';
+
+class $START$ extends React.Component {
+    static navigationOptions = {
+        title: null,
+    };
+
+    constructor(props) {
+    super(props);
+    this.state = {}
+    }
+
+    componentWillMount() {
+    }
+
+    componentDidMount() {
+    }
+
+    componentDidUpdate() {
+    }
+
+    componentWillUnmount() {
+    }
+
+    render() {
+    return (
+    &lt;View&gt;
+
+    &lt;/View&gt;
+    );
+    }
+    }
+
+    const mapStateToProps = state => ({});
+
+    const mapDispatchToProps = (dispatch) => ({});
+
+    export default connect(mapStateToProps, mapDispatchToProps)($START$);">
+
+        <variable name="START" expression="" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="MILiveTemplate" value="true"/>
+        </context>
+    </template>
+
+    <template
+            name="storeWithThunk"
+            description="Create store with Thunk for the redux"
+            toReformat="true"
+            toShortenFQNames="false"
+            value="import { createStore, applyMiddleware} from 'redux';
+import thunk from 'redux-thunk';
+
+const rootStore = createStore(
+   $START$,
+   applyMiddleware(thunk)
+);
+
+export const store = rootStore;">
+
+        <variable name="START" expression="" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="MILiveTemplate" value="true"/>
+        </context>
+    </template>
+
+    <template
+            name="Flatlist"
+            description="Generate Flatlist"
+            toReformat="true"
+            toShortenFQNames="false"
+            value="&lt;FlatList
+   onEndReached={}
+   onEndReachedThreshold={0.7}
+   ListFooterComponent={}
+   data={}
+   onRefresh={() => this.onRefresh()}
+   refreshing={this.state.isRefreshing}
+   showsVerticalScrollIndicator={false}
+   renderItem={(item, position) => &lt;$START$ data={{item, position}}/&gt;}
+   keyExtractor={(item, index) => index.toString()}
+/&gt;">
+
+        <variable name="START" expression="" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="MILiveTemplate" value="true"/>
+        </context>
+    </template>
+
+    <template
+            name="Image"
+            description="Simple image with require field"
+            toReformat="true"
+            toShortenFQNames="false"
+            value="&lt;Image
+   style={{width: 50, height: 50}}
+   resizeMode={'contain'}
+   source={require('$START$')}/&gt;">
+
+        <variable name="START" expression="" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="MILiveTemplate" value="true"/>
+        </context>
+    </template>
+
+    <template
+            name="ImageWithUri"
+            description="Image with URI"
+            toReformat="true"
+            toShortenFQNames="false"
+            value="&lt;Image
+   style={{width: 50, height: 50}}
+   resizeMode={'contain'}
+   source={{uri: '$START$'}}/&gt;">
+
+        <variable name="START" expression="" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="MILiveTemplate" value="true"/>
+        </context>
+    </template>
+
+    <template
+            name="Text"
+            description="Text"
+            toReformat="true"
+            toShortenFQNames="false"
+            value="&lt;Text
+   style={{
+       fontSize: 16,
+       color: Colors.white,
+   }}
+   numberOfLines={1}&gt;
+   $START$
+&lt;/Text&gt;">
+
+        <variable name="START" expression="" defaultValue="" alwaysStopAt="true"/>
+        <context>
+            <option name="MILiveTemplate" value="true"/>
+        </context>
+    </template>
+
+    <template
+            name="Model"
+            description="Text"
+            toReformat="true"
+            toShortenFQNames="false"
+            value="&lt;Modal
+    animationType='slide'
+    transparent={false}
+    visible={this.state.modalVisible}
+    onRequestClose={() => {
+        alert('Modal has been closed.');
+    }}&gt;
+    &lt;View style={{}}&gt;
+
+    &lt;/View&gt;
+&lt;/Modal&gt;">
+        <context>
+            <option name="MILiveTemplate" value="true"/>
+        </context>
+    </template>
+
+    <template
+            name="TouchableOpacity"
+            description="TouchableOpacity"
+            toReformat="true"
+            toShortenFQNames="false"
+            value="&lt;TouchableOpacity
+    style={}
+    activeOpacity = { .9 }
+    onPress={() => {
+
+    }}>
+    &lt;Text style={{}}&gt;
+
+    &lt;/Text&gt;
+&lt;/TouchableOpacity&gt;">
+        <context>
+            <option name="MILiveTemplate" value="true"/>
+        </context>
+    </template>
+
+    <template
+            name="StyleSheet"
+            description="StyleSheet"
+            toReformat="true"
+            toShortenFQNames="false"
+            value="const styles = StyleSheet.create({
+  container: {
+
+  },
+});">
+        <context>
+            <option name="MILiveTemplate" value="true"/>
+        </context>
+    </template>
+
+</templateSet>

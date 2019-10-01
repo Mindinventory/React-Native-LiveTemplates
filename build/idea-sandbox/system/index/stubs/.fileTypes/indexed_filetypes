@@ -1,0 +1,26 @@
+1569922222684
+CSS￿stub:com.intellij.psi.css.CssFileElementType,29￿1569922222683
+Less￿stub:org.jetbrains.plugins.less.psi.LessFileElementType,29￿1569922222682
+Literate CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1759443658￿1569922222681
+ECMAScript 6￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1759443658￿1569922222680
+HTML￿stub:com.intellij.psi.xml.XmlElementType$1,1￿1569922222679
+TypeScript JSX￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1759443658￿1569922222678
+Vue.js￿stub:org.jetbrains.vuejs.language.VueParserDefinition$Companion$HTML_FILE$1,-1759443658￿1569922222677
+XML￿binary stub builder:com.intellij.util.xml.stubs.builder.DomStubBuilder,21￿1569922222676
+EJS￿stub:com.jetbrains.lang.ejs.psi.EjsTokenTypes$EjsStubFileElementType,1913672691￿1569922222675
+ActionScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1759443658￿1569922222674
+JSP￿stub:com.intellij.lang.jsp.NewJspParserDefinition$1,1913672694￿1569922222673
+Flow￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1759443658￿1569922222672
+TypeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1759443658￿1569922222671
+Markdown￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1569922222670
+Jade￿stub:com.jetbrains.plugins.jade.psi.JadeFileElementType,1913672690￿1569922222669
+SCSS￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1569922222668
+Handlebars/Mustache￿stub:com.intellij.psi.tree.IStubFileElementType,1913672690￿1569922222667
+JSX Harmony￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1759443658￿1569922222666
+CoffeeScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1759443658￿1569922222665
+Angular Metadata JSON￿binary stub builder:org.angular2.lang.metadata.MetadataJsonStubBuilder,16￿1569922222664
+JavaScript￿stub:com.intellij.lang.javascript.types.JSFileElementType,-1759443658￿1569922222663
+Spacebars￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1569922222662
+Sass￿stub:org.jetbrains.plugins.scss.psi.SassScssFileElementType,29￿1569922222661
+Angular2Html￿stub:com.intellij.psi.tree.IStubFileElementType,0￿1569922222660
+Stylus￿stub:org.jetbrains.plugins.stylus.psi.StylusFileElementType,29￿1569922222659

@@ -1,0 +1,1002 @@
+2019-10-01 17:57:48,911 [  20368]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 8039 ms 
+2019-10-01 17:57:48,911 [  20368]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 1467 classes 
+2019-10-01 17:57:48,912 [  20369]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 186 classes 
+2019-10-01 17:57:48,912 [  20369]   INFO - llij.ide.plugins.PluginManager - Dart loaded 168 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 107 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 100 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 95 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - Docker loaded 93 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 89 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 87 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 74 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 69 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 67 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 63 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 61 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 57 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 57 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 57 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vue loaded 54 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 50 classes 
+2019-10-01 17:57:48,913 [  20370]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 45 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.meteor loaded 42 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 38 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 37 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 34 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 32 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - com.dmarcotte.handlebars loaded 31 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 28 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 28 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.jade loaded 27 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.textmate loaded 27 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 26 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 22 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 21 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.lang.ejs loaded 21 classes 
+2019-10-01 17:57:48,914 [  20371]   INFO - llij.ide.plugins.PluginManager - NodeJS loaded 21 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 21 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 19 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 18 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 15 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.html.instantEditing loaded 14 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 14 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.watcher loaded 13 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vagrant loaded 12 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.performancePlugin loaded 11 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - com.github.masahirosuzuka.PhoneGapIntelliJPlugin loaded 10 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.yeoman loaded 10 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - intellij.prettierJS loaded 10 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - tslint loaded 8 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - Karma loaded 7 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks.timeTracking loaded 7 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.asp loaded 7 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 6 classes 
+2019-10-01 17:57:48,915 [  20372]   INFO - llij.ide.plugins.PluginManager - cucumber-javascript loaded 5 classes 
+2019-10-01 17:57:48,916 [  20373]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 5 classes 
+2019-10-01 17:57:48,916 [  20373]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.webcomponents loaded 5 classes 
+2019-10-01 17:57:48,916 [  20373]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.node-remote-interpreter loaded 3 classes 
+2019-10-01 17:57:48,916 [  20373]   INFO - llij.ide.plugins.PluginManager - MILiveTemplate.MILiveTemplate loaded 2 classes 
+2019-10-01 17:57:49,008 [  20465]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2019-10-01 17:57:49,009 [  20466]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/apple/WebstormProjects/AA' AA 
+2019-10-01 17:57:49,233 [  20690]   INFO - j.ide.ui.OptionsTopHitProvider - 209 ms spent to cache options in project 
+2019-10-01 17:57:49,233 [  20690]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2019-10-01 17:57:49,233 [  20690]   INFO - tartup.impl.StartupManagerImpl - Activity run in 209ms on UI thread 
+2019-10-01 17:57:49,306 [  20763]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start another widget: com.intellij.cloudConfig.StatusBarInfoManager$InfoComponent@364ba4b4 === 
+2019-10-01 17:57:49,354 [  20811]   INFO - son.PackageVersionRangeMatcher - Matching 10 done in 694 ms 
+2019-10-01 17:57:50,113 [  21570]   INFO - j.ide.ui.OptionsTopHitProvider - 213 ms spent on EDT to cache options in project 
+2019-10-01 17:57:50,613 [  22070]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019-10-01 17:57) 
+2019-10-01 17:57:50,965 [  22422]   INFO - cloudConfig.CloudConfigManager - === End.connect === 
+2019-10-01 17:57:52,444 [  23901]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = com.intellij.openapi.util.AtomicNotNullLazyValue$1@2789a87a 
+2019-10-01 17:58:01,053 [  32510]   INFO - cloudConfig.CloudConfigManager - === Start.updateConnection === 
+2019-10-01 17:58:01,054 [  32511]   INFO - cloudConfig.CloudConfigManager - === doConnect === 
+2019-10-01 17:58:01,054 [  32511]   INFO - cloudConfig.CloudConfigManager - === getConnectionState === 
+2019-10-01 17:58:02,567 [  34024]   INFO - cloudConfig.CloudConfigManager - === End.connect === 
+2019-10-01 17:58:21,687 [  53144]   INFO - ry.NodeModulesDirectoryManager - Removing node_modules library as /Users/apple/WebstormProjects/AA/package.json removed 
+2019-10-01 17:58:22,062 [  53519]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.util.indexing.UnindexedFilesUpdater@3d6ba924 
+2019-10-01 17:58:22,066 [  53523]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.FileBasedIndexProjectHandler$4@5ae8b4cb [Project '/Users/apple/WebstormProjects/AA' AA, %project_path%/.gitignore, %project_path%/.gitattributes, %project_path%/.watchmanconfig, %project_path%/__tests__, %project_path%/metro.config.js, %project_path%/app.json, %project_path%/index.js, %project_path%/babel.config.js, %project_path%/yarn.lock, %project_path%/.eslintrc.js, %project_path%/App.js, %project_path%/.prettierrc.js, %project_path%/.flowconfig, %project_path%/__tests__/App-test.js, %project_path%/node_modules/webidl-conversions, %project_path%/node_modules/eslint-plugin-react-native-globals, %project_path%/node_modules/is-data-descriptor, %project_path%/node_modules/metro-babel-register, %project_path%/node_modules/is-stream, %project_path%/node_modules/jsprim] 
+2019-10-01 17:58:22,582 [  54039]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 3685 to update, calculated in 515ms 
+2019-10-01 17:58:25,997 [  57454]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 3414ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-10-01 17:58:25,998 [  57455]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@59fb1fa0 
+2019-10-01 17:58:25,998 [  57455]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 0ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-10-01 17:58:26,000 [  57457]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 2ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-10-01 17:58:26,001 [  57458]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2019-10-01 17:58:26,003 [  57460]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/apple/WebstormProjects/AA' AA 
+2019-10-01 17:58:34,866 [  66323]   INFO - rationStore.ComponentStoreImpl - Saving Project '/Users/apple/WebstormProjects/AA' AAProjectCodeStyleConfiguration took 23 ms, RunManager took 37 ms, XDebuggerManager took 13 ms 
+2019-10-01 17:58:34,937 [  66394]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$3@bc2a02e 
+2019-10-01 17:58:35,144 [  66601]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.openapi.roots.impl.PushedFilePropertiesUpdaterImpl$3@bc2a02e 
+2019-10-01 17:58:35,145 [  66602]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.util.indexing.UnindexedFilesUpdater@3a523c1e 
+2019-10-01 17:58:35,265 [  66722]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 15 ms 
+2019-10-01 17:58:35,431 [  66888]   INFO - ntellij.internal.IconsLoadTime - SVG load time: total=535.92ms, average=5.36ms, median=10.53ms; number of icons: 100 
+2019-10-01 17:58:35,874 [  67331]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 42 ms 
+2019-10-01 17:58:55,265 [  86722]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 22 ms 
+2019-10-01 17:58:56,096 [  87553]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-10-01 17:58:56,096 [  87553]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-10-01 17:58:56,097 [  87554]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-10-01 17:58:56,176 [  87633]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-10-01 17:58:56,179 [  87636]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-10-01 17:58:56,182 [  87639]   INFO - Types.impl.FileTypeManagerImpl - FileTypeManager: 2 auto-detected files
+Elapsed time on auto-detect: 15 ms 
+2019-10-01 17:58:56,209 [  87666]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2019-10-01 17:58:56,210 [  87667]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-10-01 17:58:56,215 [  87672]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-10-01 17:58:56,216 [  87673]   INFO - plication.impl.ApplicationImpl - Write action Statistics:
+Event number:     16
+Total time spent: 724ms
+Average duration: 45ms
+Median  duration: 31ms
+Max     duration: 202ms (it was 'write action (class com.intellij.openapi.vfs.newvfs.RefreshSessionImpl$$Lambda$1465/901137060)') 
+2019-10-01 17:58:56,216 [  87673]   INFO - plication.impl.ApplicationImpl - AnAction.update() Statistics:
+Event number:     1188
+Total time spent: 331ms
+Average duration: 0ms
+Median  duration: 0ms
+Max     duration: 80ms (it was 'Run action update (class com.intellij.execution.ExecutorRegistryImpl$ExecutorAction)') 
+2019-10-01 17:58:56,216 [  87673]   INFO - plication.impl.ApplicationImpl - Global instance threads created counter = 9; ProcessIOExecutorService threads: 6 
+2019-10-01 17:58:56,217 [  87674]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-10-01 17:58:56,218 [  87675]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-10-01 17:59:04,134 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-10-01 17:59:04,226 [     92]   INFO -        #com.intellij.idea.Main - IDE: WebStorm (build #WS-191.7479.14, 27 May 2019 13:46) 
+2019-10-01 17:59:04,226 [     92]   INFO -        #com.intellij.idea.Main - OS: Mac OS X (10.14.4, x86_64) 
+2019-10-01 17:59:04,226 [     92]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_212-b03 (AdoptOpenJDK) 
+2019-10-01 17:59:04,226 [     92]   INFO -        #com.intellij.idea.Main - JVM: 25.212-b03 (OpenJDK 64-Bit Server VM) 
+2019-10-01 17:59:04,241 [    107]   INFO -        #com.intellij.idea.Main - JVM Args: -Dapple.awt.fileDialogForDirectories=true -Dapple.laf.useScreenMenuBar=true -Didea.classpath.index.enabled=false -Didea.config.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/config -Didea.is.internal=true -Didea.platform.prefix=WebStorm -Didea.plugins.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/plugins -Didea.required.plugins.id=MILiveTemplate.MILiveTemplate -Didea.smooth.progress=false -Didea.system.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/system -Xms256m -Xmx512m -Dfile.encoding=UTF-8 -Duser.country=IN -Duser.language=en -Duser.variant -ea 
+2019-10-01 17:59:04,242 [    108]   INFO -        #com.intellij.idea.Main - ext: /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext: [sunec.jar, nashorn.jar, cldrdata.jar, dnsns.jar, localedata.jar, sunjce_provider.jar, meta-index, sunpkcs11.jar, jaccess.jar, zipfs.jar] 
+2019-10-01 17:59:04,242 [    108]   INFO -        #com.intellij.idea.Main - ext: /System/Library/Java/Extensions: [MRJToolkit.jar] 
+2019-10-01 17:59:04,242 [    108]   INFO -        #com.intellij.idea.Main - charsets: JNU=UTF-8 file=UTF-8 
+2019-10-01 17:59:04,272 [    138]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 29 ms 
+2019-10-01 17:59:04,344 [    210]   INFO -        #com.intellij.idea.Main - initializing environment 
+2019-10-01 17:59:04,346 [    212]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/bash -l -i -c '/Applications/WebStorm.app/Contents/bin/printenv.py' '/private/var/folders/vj/w117x5_s5075bc8f566n16ph0000gn/T/intellij-shell-env.tmp' 
+2019-10-01 17:59:04,655 [    521]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-10-01 17:59:04,685 [    551]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-10-01 17:59:06,048 [   1914]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (21 vars) 
+2019-10-01 17:59:06,808 [   2674]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2019-10-01 17:59:06,809 [   2675]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2019-10-01 17:59:06,925 [   2791]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2019-10-01 17:59:07,047 [   2913]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 374 ms 
+2019-10-01 17:59:09,799 [   5665]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@153a547d[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@760b4e9b 
+2019-10-01 17:59:10,152 [   6018]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2019-10-01 17:59:10,153 [   6019]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2019-10-01 17:59:10,221 [   6087]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2019-10-01 17:59:10,279 [   6145]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 166 ms 
+2019-10-01 17:59:10,297 [   6163]   INFO - llij.ide.plugins.PluginManager - Plugin 'IntelliJ Configuration Script' can't be loaded because: Plugin does not include any module dependency tags in its plugin.xml therefore is assumed legacy and can be loaded only in IntelliJ IDEA 
+2019-10-01 17:59:10,443 [   6309]   INFO - llij.ide.plugins.PluginManager - 60 plugins initialized in 330 ms 
+2019-10-01 17:59:10,443 [   6309]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (191.7479.14), Angular and AngularJS (191.7479.14), CSS Support (191.7479.14), CoffeeScript (191.7479.14), Copyright (191.7479.14), Cucumber.js (191.7479.14), Dart (191.7479.14), Docker integration (191.7479.14), EJS (191.7479.14), EditorConfig (191.7479.14), File Watchers (191.7479.14), Gherkin (191.7479.14), Git Integration (191.7479.14), GitHub (191.7479.14), HTML Tools (191.7479.14), HTTP Client (191.7479.14), Haml (191.7479.14), Handlebars/Mustache (191.7479.14), IDE Settings Sync (191.7479.14), IDEA CORE (191.7479.14), IntelliLang (191.7479.14), Java Server Pages (JSP) Integration (191.7479.14), JavaScript Debugger (191.7479.14), JavaScript Intention Power Pack (191.7479.14), JavaScript Support (191.7479.14), Karma (191.7479.14), Less support (191.7479.14), LiveEdit (191.7479.14), Markdown support (191.7479.14), Mercurial Integration (191.7479.14), Meteor (191.7479.14), Node.js Remote Interpreter (191.7479.14), NodeJS (191.7479.14), Performance Testing (191.7479.14), PhoneGap/Cordova Plugin (191.7479.14), Polymer & Web Components (191.7479.14), Prettier (191.7479.14), Pug (ex-Jade) (191.7479.14), Refactor-X (191.7479.14), Remote Hosts Access (191.7479.14), SSH Remote Run (191.7479.14), Sass support (191.7479.14), Settings Repository (191.7479.14), Spy-js (191.7479.14), Stylus support (191.7479.14), Subversion (191.7479.14), Task Management (191.7479.14), Terminal (191.7479.14), TextMate bundles support (191.7479.14), Time Tracking (191.7479.14), UML Support (191.7479.14), Vagrant (191.7479.14), Vue.js (191.7479.14), W3C Validators (191.7479.14), XPathView + XSLT Support (191.7479.14), YAML (191.7479.14), Yeoman (191.7479.14), tslint (191.7479.14) 
+2019-10-01 17:59:10,443 [   6309]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: MILiveTemplates (0.1) 
+2019-10-01 17:59:10,443 [   6309]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: IntelliJ Configuration Script (191.7479.14) 
+2019-10-01 17:59:10,813 [   6679]   INFO - cloudConfig.CloudConfigManager - === Start.updateConnection === 
+2019-10-01 17:59:10,841 [   6707]   INFO - cloudConfig.CloudConfigManager - === Start: JBA_CONNECTED === 
+2019-10-01 17:59:10,922 [   6788]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2019-10-01 17:59:10,922 [   6788]   INFO - pi.util.registry.RegistryState -   ide.tooltip.show.with.actions = true 
+2019-10-01 17:59:10,922 [   6788]   INFO - pi.util.registry.RegistryState -   java.completion.argument.hints.internal = false 
+2019-10-01 17:59:10,953 [   6819]   INFO - pi.util.registry.RegistryState - Experimental features enabled for user: inline.browse.button, linux.native.menu, recent.and.edited.files.together 
+2019-10-01 17:59:10,996 [   6862]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=435; buffer=10; max=435 
+2019-10-01 17:59:11,052 [   6918]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /Applications/WebStorm.app/Contents/bin/fsnotifier 
+2019-10-01 17:59:11,093 [   6959]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-10-01 17:59:12,072 [   7938]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-10-01 17:59:12,154 [   8020]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63344 
+2019-10-01 17:59:12,393 [   8259]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2019-10-01 17:59:12,395 [   8261]   INFO - tellij.ide.SystemHealthMonitor - issue detected: bundled.jre.version.message 
+2019-10-01 17:59:12,531 [   8397]   INFO - m.intellij.ui.mac.touchbar.NST - touchbar-server isn't running, skip nst loading 
+2019-10-01 17:59:12,565 [   8431]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2019-10-01 17:59:12,782 [   8648]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:91, number of extensions:40 
+2019-10-01 17:59:12,795 [   8661]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:12 
+2019-10-01 17:59:12,898 [   8764]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:63, number of extensions:74 
+2019-10-01 17:59:12,899 [   8765]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2019-10-01 17:59:13,021 [   8887]   INFO - llij.util.io.PersistentHashMap - Compacting /Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/system/index/stubs/Stubs_inputs 
+2019-10-01 17:59:13,022 [   8888]   INFO - llij.util.io.PersistentHashMap - Live keys:1231, dead keys:1237, read compaction size:0 
+2019-10-01 17:59:13,027 [   8893]   INFO - llij.util.io.PersistentHashMap - Loaded mappings:3ms, keys:1231 
+2019-10-01 17:59:13,113 [   8979]   INFO - plication.impl.ApplicationImpl - 72 application components initialized in 3003ms 
+2019-10-01 17:59:13,170 [   9036]   INFO - .intellij.idea.IdeaApplication - App initialization took 11303 ms 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 412 classes 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 87 classes 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 54 classes 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 49 classes 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vue loaded 34 classes 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - Dart loaded 34 classes 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 30 classes 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - Docker loaded 22 classes 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 20 classes 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 20 classes 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.textmate loaded 18 classes 
+2019-10-01 17:59:13,176 [   9042]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 16 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 16 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 15 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 13 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 12 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 12 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 11 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.jade loaded 11 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 11 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 10 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 10 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 9 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 8 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 8 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 7 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.meteor loaded 7 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 6 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - com.dmarcotte.handlebars loaded 6 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 5 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.lang.ejs loaded 5 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.asp loaded 4 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 4 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 4 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 3 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 3 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 3 classes 
+2019-10-01 17:59:13,177 [   9043]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.webcomponents loaded 2 classes 
+2019-10-01 17:59:13,178 [   9044]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 2 classes 
+2019-10-01 17:59:13,178 [   9044]   INFO - llij.ide.plugins.PluginManager - NodeJS loaded 2 classes 
+2019-10-01 17:59:13,178 [   9044]   INFO - llij.ide.plugins.PluginManager - MILiveTemplate.MILiveTemplate loaded 2 classes 
+2019-10-01 17:59:13,178 [   9044]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 2 classes 
+2019-10-01 17:59:13,178 [   9044]   INFO - llij.ide.plugins.PluginManager - intellij.prettierJS loaded 1 classes 
+2019-10-01 17:59:13,178 [   9044]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vagrant loaded 1 classes 
+2019-10-01 17:59:13,262 [   9128]   INFO - llij.util.io.PersistentHashMap - Compacted values for:235ms fragments:1231, new fragments:1231 
+2019-10-01 17:59:13,288 [   9154]   INFO - llij.util.io.PersistentHashMap - Updated mappings:26 ms 
+2019-10-01 17:59:13,326 [   9192]   INFO - llij.util.io.PersistentHashMap - Compacted /Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/system/index/stubs/Stubs_inputs:6361353 bytes into 3743938 bytes in 304ms. 
+2019-10-01 17:59:13,454 [   9320]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 357 ms 
+2019-10-01 17:59:13,827 [   9693]   INFO - pl$FileIndexDataInitialization - Initialization done:1031 
+2019-10-01 17:59:13,844 [   9710]   INFO - j.ide.ui.OptionsTopHitProvider - 1822 ms spent to cache options in application 
+2019-10-01 17:59:13,845 [   9711]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 1822 ms 
+2019-10-01 17:59:13,971 [   9837]   INFO - exImpl$StubIndexInitialization - Initialization done:143 
+2019-10-01 17:59:14,180 [  10046]   INFO - cloudConfig.CloudConfigManager - === doConnect === 
+2019-10-01 17:59:14,180 [  10046]   INFO - cloudConfig.CloudConfigManager - === getConnectionState === 
+2019-10-01 17:59:14,452 [  10318]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-10-01 17:59:15,116 [  10982]   INFO - j.ide.ui.OptionsTopHitProvider - 526 ms spent on EDT to cache options in application 
+2019-10-01 17:59:15,832 [  11698]   INFO - .cloudConfig.CloudConfigClient - === Get cloud config URL: https://cloudconfig.jetbrains.com/cloudconfig/files === 
+2019-10-01 17:59:16,055 [  11921]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 2210 ms 
+2019-10-01 17:59:17,028 [  12894]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 971 ms 
+2019-10-01 17:59:17,538 [  13404]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 508 ms 
+2019-10-01 17:59:17,544 [  13410]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 5 ms 
+2019-10-01 17:59:24,352 [  20218]   INFO - ellij.project.impl.ProjectImpl - 102 project components initialized in 668 ms 
+2019-10-01 17:59:24,425 [  20291]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 72 ms 
+2019-10-01 17:59:24,550 [  20416]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2019-10-01 17:59:24,652 [  20518]   WARN - j.ui.mac.MacMainFrameDecorator - no url bundle present. 
+To use platform protocol handler to open external links specify required protocols in the mac app layout section of the build file
+Example: args.urlSchemes = ["your-protocol"] will handle following links: your-protocol://open?file=file&line=line 
+2019-10-01 17:59:24,993 [  20859]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2019-10-01 17:59:25,479 [  21345]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2019-10-01 17:59:25,774 [  21640]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@4ff26bd9 
+2019-10-01 17:59:25,832 [  21698]   INFO - ntellij.internal.IconsLoadTime - IMG load time: ide_startup=15.87ms, average=1.98ms, median=3.37ms; number of icons: 8 
+2019-10-01 17:59:25,833 [  21699]   INFO - ntellij.internal.IconsLoadTime - SVG load time: ide_startup=223.08ms, average=4.75ms, median=7.76ms; number of icons: 47 
+2019-10-01 17:59:26,990 [  22856]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.util.indexing.UnindexedFilesUpdater@4ff26bd9 
+2019-10-01 17:59:26,992 [  22858]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2019-10-01 17:59:27,125 [  22991]   INFO - ry.NodeModulesDirectoryManager - Associate MILiveTemplates/node_modules with [file:///Users/apple/WebstormProjects/MILiveTemplates] 
+2019-10-01 17:59:27,135 [  23001]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.util.indexing.UnindexedFilesUpdater@4ff26bd9 
+2019-10-01 17:59:27,135 [  23001]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.util.indexing.UnindexedFilesUpdater@5acdbd8a 
+2019-10-01 17:59:27,294 [  23160]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: initial refresh 
+2019-10-01 17:59:27,339 [  23205]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 1501ms under project opening modal progress 
+2019-10-01 17:59:27,342 [  23208]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@28bbe5a3 
+2019-10-01 17:59:27,355 [  23221]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 12ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-10-01 17:59:27,389 [  23255]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.grunt.GruntfileManager 
+2019-10-01 17:59:27,391 [  23257]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.gulp.GulpfileManager 
+2019-10-01 17:59:27,392 [  23258]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.npm.PackageJsonFileManager 
+2019-10-01 17:59:27,450 [  23316]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 1750ms; general responsiveness: ok; EDT responsiveness: 1/2 sluggish, 1/2 very slow 
+2019-10-01 17:59:28,369 [  24235]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [file:///Users/apple/WebstormProjects/MILiveTemplates/package.json] 
+2019-10-01 17:59:28,659 [  24525]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019-10-01 17:57) 
+2019-10-01 17:59:29,174 [  25040]   INFO - son.PackageVersionRangeMatcher - Matching 10 done in 704 ms 
+2019-10-01 17:59:29,506 [  25372]   INFO - tartup.impl.StartupManagerImpl - /Users/apple/WebstormProjects/MILiveTemplates/.idea case-sensitivity: expected=false actual=false 
+2019-10-01 17:59:29,537 [  25403]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2019-10-01 17:59:30,381 [  26247]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 6830 ms 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 1439 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 188 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - Dart loaded 168 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 107 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 100 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - Docker loaded 93 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 91 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 89 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 87 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 74 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 69 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 67 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 63 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 61 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 58 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 57 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 57 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vue loaded 54 classes 
+2019-10-01 17:59:30,382 [  26248]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 50 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 45 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.meteor loaded 41 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 38 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 37 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 32 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.dmarcotte.handlebars loaded 32 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 29 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 28 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 28 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.textmate loaded 27 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 26 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.jade loaded 26 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 23 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.lang.ejs loaded 21 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 21 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 21 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - NodeJS loaded 21 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 19 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 18 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 15 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 14 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.html.instantEditing loaded 14 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.watcher loaded 14 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vagrant loaded 12 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.performancePlugin loaded 11 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.github.masahirosuzuka.PhoneGapIntelliJPlugin loaded 10 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.yeoman loaded 10 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - intellij.prettierJS loaded 10 classes 
+2019-10-01 17:59:30,383 [  26249]   INFO - llij.ide.plugins.PluginManager - tslint loaded 8 classes 
+2019-10-01 17:59:30,384 [  26250]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.asp loaded 7 classes 
+2019-10-01 17:59:30,384 [  26250]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks.timeTracking loaded 7 classes 
+2019-10-01 17:59:30,384 [  26250]   INFO - llij.ide.plugins.PluginManager - Karma loaded 7 classes 
+2019-10-01 17:59:30,384 [  26250]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 6 classes 
+2019-10-01 17:59:30,384 [  26250]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.webcomponents loaded 5 classes 
+2019-10-01 17:59:30,384 [  26250]   INFO - llij.ide.plugins.PluginManager - cucumber-javascript loaded 5 classes 
+2019-10-01 17:59:30,384 [  26250]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 5 classes 
+2019-10-01 17:59:30,384 [  26250]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.node-remote-interpreter loaded 3 classes 
+2019-10-01 17:59:30,384 [  26250]   INFO - llij.ide.plugins.PluginManager - MILiveTemplate.MILiveTemplate loaded 2 classes 
+2019-10-01 17:59:30,427 [  26293]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /Users/apple/WebstormProjects/MILiveTemplates/.idea/AA.iml 
+2019-10-01 17:59:30,427 [  26293]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /Users/apple/WebstormProjects/MILiveTemplates 
+2019-10-01 17:59:30,427 [  26293]   INFO - cript.buildTools.base.JsbtUtil - Detecting by children: [file:///Users/apple/WebstormProjects/MILiveTemplates/ios, file:///Users/apple/WebstormProjects/MILiveTemplates/.idea, file:///Users/apple/WebstormProjects/MILiveTemplates/App.js, file:///Users/apple/WebstormProjects/MILiveTemplates/android, file:///Users/apple/WebstormProjects/MILiveTemplates/app.json, file:///Users/apple/WebstormProjects/MILiveTemplates/index.js, file:///Users/apple/WebstormProjects/MILiveTemplates/__tests__, file:///Users/apple/WebstormProjects/MILiveTemplates/yarn.lock, file:///Users/apple/WebstormProjects/MILiveTemplates/.gitignore, file:///Users/apple/WebstormProjects/MILiveTemplates/.buckconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/.flowconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/.eslintrc.js, file:///Users/apple/WebstormProjects/MILiveTemplates/node_modules, file:///Users/apple/WebstormProjects/MILiveTemplates/package.json, file:///Users/apple/WebstormProjects/MILiveTemplates/.gitattributes, file:///Users/apple/WebstormProjects/MILiveTemplates/.prettierrc.js, file:///Users/apple/WebstormProjects/MILiveTemplates/.watchmanconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/babel.config.js, file:///Users/apple/WebstormProjects/MILiveTemplates/metro.config.js] 
+2019-10-01 17:59:30,427 [  26293]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.grunt.GruntService 
+2019-10-01 17:59:30,428 [  26294]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /Users/apple/WebstormProjects/MILiveTemplates/.idea/AA.iml 
+2019-10-01 17:59:30,428 [  26294]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /Users/apple/WebstormProjects/MILiveTemplates 
+2019-10-01 17:59:30,428 [  26294]   INFO - cript.buildTools.base.JsbtUtil - Detecting by children: [file:///Users/apple/WebstormProjects/MILiveTemplates/ios, file:///Users/apple/WebstormProjects/MILiveTemplates/.idea, file:///Users/apple/WebstormProjects/MILiveTemplates/App.js, file:///Users/apple/WebstormProjects/MILiveTemplates/android, file:///Users/apple/WebstormProjects/MILiveTemplates/app.json, file:///Users/apple/WebstormProjects/MILiveTemplates/index.js, file:///Users/apple/WebstormProjects/MILiveTemplates/__tests__, file:///Users/apple/WebstormProjects/MILiveTemplates/yarn.lock, file:///Users/apple/WebstormProjects/MILiveTemplates/.gitignore, file:///Users/apple/WebstormProjects/MILiveTemplates/.buckconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/.flowconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/.eslintrc.js, file:///Users/apple/WebstormProjects/MILiveTemplates/node_modules, file:///Users/apple/WebstormProjects/MILiveTemplates/package.json, file:///Users/apple/WebstormProjects/MILiveTemplates/.gitattributes, file:///Users/apple/WebstormProjects/MILiveTemplates/.prettierrc.js, file:///Users/apple/WebstormProjects/MILiveTemplates/.watchmanconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/babel.config.js, file:///Users/apple/WebstormProjects/MILiveTemplates/metro.config.js] 
+2019-10-01 17:59:30,428 [  26294]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.gulp.GulpService 
+2019-10-01 17:59:30,430 [  26296]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /Users/apple/WebstormProjects/MILiveTemplates/.idea/AA.iml 
+2019-10-01 17:59:30,430 [  26296]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /Users/apple/WebstormProjects/MILiveTemplates 
+2019-10-01 17:59:30,430 [  26296]   INFO - ols.npm.PackageJsonFileManager - Found package.json in /Users/apple/WebstormProjects/MILiveTemplates: file:///Users/apple/WebstormProjects/MILiveTemplates/package.json 
+2019-10-01 17:59:30,468 [  26334]   INFO - Tools.base.JsbtStartupActivity - Found [file:///Users/apple/WebstormProjects/MILiveTemplates/package.json] for com.intellij.lang.javascript.buildTools.npm.NpmScriptsService 
+2019-10-01 17:59:30,869 [  26735]   INFO - cloudConfig.CloudConfigManager - === StatusBar.update another widget: null === 
+2019-10-01 17:59:30,870 [  26736]   INFO - cloudConfig.CloudConfigManager - === StatusBar.update another widget: null === 
+2019-10-01 17:59:30,870 [  26736]   INFO - cloudConfig.CloudConfigManager - === End.connect === 
+2019-10-01 17:59:31,921 [  27787]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 4564ms; general responsiveness: ok; EDT responsiveness: 1/4 sluggish 
+2019-10-01 17:59:31,924 [  27790]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update started: 3685 files to update 
+2019-10-01 17:59:32,827 [  28693]   INFO - ndex.PrebuiltIndexProviderBase - Using prebuilt sdk-stubs from /Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/system/index/.persistent/prebuilt/JavaScript/sdk-stubs.input 
+2019-10-01 17:59:51,578 [  47444]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019-10-01 17:57) 
+2019-10-01 17:59:52,335 [  48201]   INFO - ntellij.internal.IconsLoadTime - SVG load time: total=463.42ms, average=4.63ms, median=13.29ms; number of icons: 100 
+2019-10-01 17:59:57,333 [  53199]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 378 ms 
+2019-10-01 18:00:10,525 [  66391]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 72 ms 
+2019-10-01 18:00:11,334 [  67200]   INFO - .diagnostic.PerformanceWatcher - Unindexed files update took 39410ms; general responsiveness: 1/39 sluggish; EDT responsiveness: 0/39 sluggish, 3/39 very slow 
+2019-10-01 18:00:11,336 [  67202]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.FileBasedIndexProjectHandler$4@13f0e5d9 [Project '/Users/apple/WebstormProjects/MILiveTemplates' MILiveTemplates, %project_path%/App.js, %project_path%/.idea/workspace.xml] 
+2019-10-01 18:00:11,340 [  67206]   INFO - g.FileBasedIndexProjectHandler - Reindexing refreshed files: 1 to update, calculated in 3ms 
+2019-10-01 18:00:11,394 [  67260]   INFO - .diagnostic.PerformanceWatcher - Reindexing refreshed files took 54ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-10-01 18:00:11,396 [  67262]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2019-10-01 18:00:11,397 [  67263]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/apple/WebstormProjects/MILiveTemplates' MILiveTemplates 
+2019-10-01 18:00:11,510 [  67376]   INFO - j.ide.ui.OptionsTopHitProvider - 104 ms spent to cache options in project 
+2019-10-01 18:00:11,510 [  67376]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2019-10-01 18:00:11,510 [  67376]   INFO - tartup.impl.StartupManagerImpl - Activity run in 104ms on UI thread 
+2019-10-01 18:00:11,546 [  67412]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start create === 
+2019-10-01 18:00:11,871 [  67737]   INFO - j.ide.ui.OptionsTopHitProvider - 156 ms spent on EDT to cache options in project 
+2019-10-01 18:00:13,790 [  69656]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-10-01 18:00:13,797 [  69663]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-10-01 18:00:13,799 [  69665]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-10-01 18:00:14,364 [  70230]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-10-01 18:00:14,364 [  70230]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-10-01 18:00:14,364 [  70230]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-10-01 18:00:14,368 [  70234]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-10-01 18:00:14,381 [  70247]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-10-01 18:00:14,381 [  70247]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-10-01 18:00:14,383 [  70249]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-10-01 18:00:20,504 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-10-01 18:00:20,560 [     56]   INFO -        #com.intellij.idea.Main - IDE: WebStorm (build #WS-191.7479.14, 27 May 2019 13:46) 
+2019-10-01 18:00:20,560 [     56]   INFO -        #com.intellij.idea.Main - OS: Mac OS X (10.14.4, x86_64) 
+2019-10-01 18:00:20,560 [     56]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_212-b03 (AdoptOpenJDK) 
+2019-10-01 18:00:20,560 [     56]   INFO -        #com.intellij.idea.Main - JVM: 25.212-b03 (OpenJDK 64-Bit Server VM) 
+2019-10-01 18:00:20,568 [     64]   INFO -        #com.intellij.idea.Main - JVM Args: -Dapple.awt.fileDialogForDirectories=true -Dapple.laf.useScreenMenuBar=true -Didea.classpath.index.enabled=false -Didea.config.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/config -Didea.is.internal=true -Didea.platform.prefix=WebStorm -Didea.plugins.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/plugins -Didea.required.plugins.id=MILiveTemplate.MILiveTemplate -Didea.smooth.progress=false -Didea.system.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/system -Xms256m -Xmx512m -Dfile.encoding=UTF-8 -Duser.country=IN -Duser.language=en -Duser.variant -ea 
+2019-10-01 18:00:20,569 [     65]   INFO -        #com.intellij.idea.Main - ext: /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext: [sunec.jar, nashorn.jar, cldrdata.jar, dnsns.jar, localedata.jar, sunjce_provider.jar, meta-index, sunpkcs11.jar, jaccess.jar, zipfs.jar] 
+2019-10-01 18:00:20,569 [     65]   INFO -        #com.intellij.idea.Main - ext: /System/Library/Java/Extensions: [MRJToolkit.jar] 
+2019-10-01 18:00:20,569 [     65]   INFO -        #com.intellij.idea.Main - charsets: JNU=UTF-8 file=UTF-8 
+2019-10-01 18:00:20,593 [     89]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 24 ms 
+2019-10-01 18:00:20,651 [    147]   INFO -        #com.intellij.idea.Main - initializing environment 
+2019-10-01 18:00:20,653 [    149]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/bash -l -i -c '/Applications/WebStorm.app/Contents/bin/printenv.py' '/private/var/folders/vj/w117x5_s5075bc8f566n16ph0000gn/T/intellij-shell-env.tmp' 
+2019-10-01 18:00:20,907 [    403]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-10-01 18:00:20,924 [    420]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-10-01 18:00:22,214 [   1710]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (21 vars) 
+2019-10-01 18:00:23,065 [   2561]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2019-10-01 18:00:23,066 [   2562]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2019-10-01 18:00:23,179 [   2675]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2019-10-01 18:00:23,306 [   2802]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 345 ms 
+2019-10-01 18:00:25,204 [   4700]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@493543f8[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@1c407f41 
+2019-10-01 18:00:25,585 [   5081]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2019-10-01 18:00:25,585 [   5081]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2019-10-01 18:00:25,667 [   5163]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2019-10-01 18:00:25,724 [   5220]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 192 ms 
+2019-10-01 18:00:25,741 [   5237]   INFO - llij.ide.plugins.PluginManager - Plugin 'IntelliJ Configuration Script' can't be loaded because: Plugin does not include any module dependency tags in its plugin.xml therefore is assumed legacy and can be loaded only in IntelliJ IDEA 
+2019-10-01 18:00:25,895 [   5391]   INFO - llij.ide.plugins.PluginManager - 60 plugins initialized in 363 ms 
+2019-10-01 18:00:25,895 [   5391]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (191.7479.14), Angular and AngularJS (191.7479.14), CSS Support (191.7479.14), CoffeeScript (191.7479.14), Copyright (191.7479.14), Cucumber.js (191.7479.14), Dart (191.7479.14), Docker integration (191.7479.14), EJS (191.7479.14), EditorConfig (191.7479.14), File Watchers (191.7479.14), Gherkin (191.7479.14), Git Integration (191.7479.14), GitHub (191.7479.14), HTML Tools (191.7479.14), HTTP Client (191.7479.14), Haml (191.7479.14), Handlebars/Mustache (191.7479.14), IDE Settings Sync (191.7479.14), IDEA CORE (191.7479.14), IntelliLang (191.7479.14), Java Server Pages (JSP) Integration (191.7479.14), JavaScript Debugger (191.7479.14), JavaScript Intention Power Pack (191.7479.14), JavaScript Support (191.7479.14), Karma (191.7479.14), Less support (191.7479.14), LiveEdit (191.7479.14), Markdown support (191.7479.14), Mercurial Integration (191.7479.14), Meteor (191.7479.14), Node.js Remote Interpreter (191.7479.14), NodeJS (191.7479.14), Performance Testing (191.7479.14), PhoneGap/Cordova Plugin (191.7479.14), Polymer & Web Components (191.7479.14), Prettier (191.7479.14), Pug (ex-Jade) (191.7479.14), Refactor-X (191.7479.14), Remote Hosts Access (191.7479.14), SSH Remote Run (191.7479.14), Sass support (191.7479.14), Settings Repository (191.7479.14), Spy-js (191.7479.14), Stylus support (191.7479.14), Subversion (191.7479.14), Task Management (191.7479.14), Terminal (191.7479.14), TextMate bundles support (191.7479.14), Time Tracking (191.7479.14), UML Support (191.7479.14), Vagrant (191.7479.14), Vue.js (191.7479.14), W3C Validators (191.7479.14), XPathView + XSLT Support (191.7479.14), YAML (191.7479.14), Yeoman (191.7479.14), tslint (191.7479.14) 
+2019-10-01 18:00:25,895 [   5391]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: MILiveTemplates (0.1) 
+2019-10-01 18:00:25,895 [   5391]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: IntelliJ Configuration Script (191.7479.14) 
+2019-10-01 18:00:26,247 [   5743]   INFO - cloudConfig.CloudConfigManager - === Start.updateConnection === 
+2019-10-01 18:00:26,275 [   5771]   INFO - cloudConfig.CloudConfigManager - === Start: JBA_CONNECTED === 
+2019-10-01 18:00:26,379 [   5875]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2019-10-01 18:00:26,379 [   5875]   INFO - pi.util.registry.RegistryState -   ide.tooltip.show.with.actions = true 
+2019-10-01 18:00:26,379 [   5875]   INFO - pi.util.registry.RegistryState -   java.completion.argument.hints.internal = false 
+2019-10-01 18:00:26,411 [   5907]   INFO - pi.util.registry.RegistryState - Experimental features enabled for user: inline.browse.button, linux.native.menu, recent.and.edited.files.together 
+2019-10-01 18:00:26,455 [   5951]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=435; buffer=10; max=435 
+2019-10-01 18:00:26,521 [   6017]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /Applications/WebStorm.app/Contents/bin/fsnotifier 
+2019-10-01 18:00:26,561 [   6057]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-10-01 18:00:27,615 [   7111]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-10-01 18:00:27,681 [   7177]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63344 
+2019-10-01 18:00:27,708 [   7204]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2019-10-01 18:00:27,978 [   7474]   INFO - tellij.ide.SystemHealthMonitor - issue detected: bundled.jre.version.message 
+2019-10-01 18:00:28,106 [   7602]   INFO - m.intellij.ui.mac.touchbar.NST - touchbar-server isn't running, skip nst loading 
+2019-10-01 18:00:28,143 [   7639]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2019-10-01 18:00:28,341 [   7837]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:79, number of extensions:40 
+2019-10-01 18:00:28,352 [   7848]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:10 
+2019-10-01 18:00:28,490 [   7986]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:72, number of extensions:74 
+2019-10-01 18:00:28,491 [   7987]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2019-10-01 18:00:28,774 [   8270]   INFO - plication.impl.ApplicationImpl - 72 application components initialized in 3245ms 
+2019-10-01 18:00:28,930 [   8426]   INFO - .intellij.idea.IdeaApplication - App initialization took 10296 ms 
+2019-10-01 18:00:28,932 [   8428]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 430 classes 
+2019-10-01 18:00:28,932 [   8428]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 113 classes 
+2019-10-01 18:00:28,932 [   8428]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 87 classes 
+2019-10-01 18:00:28,932 [   8428]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 52 classes 
+2019-10-01 18:00:28,932 [   8428]   INFO - llij.ide.plugins.PluginManager - Dart loaded 45 classes 
+2019-10-01 18:00:28,932 [   8428]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vue loaded 37 classes 
+2019-10-01 18:00:28,932 [   8428]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 30 classes 
+2019-10-01 18:00:28,932 [   8428]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 25 classes 
+2019-10-01 18:00:28,932 [   8428]   INFO - llij.ide.plugins.PluginManager - Docker loaded 24 classes 
+2019-10-01 18:00:28,932 [   8428]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 21 classes 
+2019-10-01 18:00:28,932 [   8428]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 20 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 20 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.textmate loaded 19 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 17 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 17 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 15 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 15 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 14 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.lang.ejs loaded 13 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 13 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.jade loaded 13 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 12 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 12 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 12 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 11 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 11 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 11 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - com.dmarcotte.handlebars loaded 11 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 9 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 9 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.meteor loaded 8 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.asp loaded 7 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 5 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 4 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 3 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 3 classes 
+2019-10-01 18:00:28,933 [   8429]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 3 classes 
+2019-10-01 18:00:28,934 [   8430]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.webcomponents loaded 2 classes 
+2019-10-01 18:00:28,934 [   8430]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 2 classes 
+2019-10-01 18:00:28,934 [   8430]   INFO - llij.ide.plugins.PluginManager - MILiveTemplate.MILiveTemplate loaded 2 classes 
+2019-10-01 18:00:28,934 [   8430]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 2 classes 
+2019-10-01 18:00:28,934 [   8430]   INFO - llij.ide.plugins.PluginManager - NodeJS loaded 2 classes 
+2019-10-01 18:00:28,934 [   8430]   INFO - llij.ide.plugins.PluginManager - intellij.prettierJS loaded 1 classes 
+2019-10-01 18:00:28,934 [   8430]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vagrant loaded 1 classes 
+2019-10-01 18:00:29,239 [   8735]   INFO - pl$FileIndexDataInitialization - Initialization done:888 
+2019-10-01 18:00:29,413 [   8909]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 388 ms 
+2019-10-01 18:00:29,435 [   8931]   INFO - exImpl$StubIndexInitialization - Initialization done:195 
+2019-10-01 18:00:29,593 [   9089]   WARN - j.ui.mac.MacMainFrameDecorator - no url bundle present. 
+To use platform protocol handler to open external links specify required protocols in the mac app layout section of the build file
+Example: args.urlSchemes = ["your-protocol"] will handle following links: your-protocol://open?file=file&line=line 
+2019-10-01 18:00:29,783 [   9279]   INFO - j.ide.ui.OptionsTopHitProvider - 2221 ms spent to cache options in application 
+2019-10-01 18:00:29,783 [   9279]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 2220 ms 
+2019-10-01 18:00:30,807 [  10303]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-10-01 18:00:31,237 [  10733]   INFO - ellij.project.impl.ProjectImpl - 102 project components initialized in 1124 ms 
+2019-10-01 18:00:31,333 [  10829]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 90 ms 
+2019-10-01 18:00:31,812 [  11308]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2019-10-01 18:00:32,229 [  11725]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2019-10-01 18:00:32,942 [  12438]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2019-10-01 18:00:33,316 [  12812]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 3532 ms 
+2019-10-01 18:00:33,463 [  12959]   INFO - ntellij.internal.IconsLoadTime - IMG load time: ide_startup=7.18ms, average=2.39ms, median=3.29ms; number of icons: 3 
+2019-10-01 18:00:33,465 [  12961]   INFO - ntellij.internal.IconsLoadTime - SVG load time: ide_startup=139.53ms, average=5.81ms, median=6.56ms; number of icons: 24 
+2019-10-01 18:00:33,666 [  13162]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@722a216a 
+2019-10-01 18:00:33,872 [  13368]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.util.indexing.UnindexedFilesUpdater@722a216a 
+2019-10-01 18:00:33,874 [  13370]   INFO - indexing.UnindexedFilesUpdater - Unindexed files update canceled 
+2019-10-01 18:00:33,879 [  13375]   INFO - ry.NodeModulesDirectoryManager - Associate MILiveTemplates/node_modules with [file:///Users/apple/WebstormProjects/MILiveTemplates] 
+2019-10-01 18:00:33,891 [  13387]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.util.indexing.UnindexedFilesUpdater@722a216a 
+2019-10-01 18:00:33,892 [  13388]   INFO - penapi.project.DumbServiceImpl - cancel com.intellij.util.indexing.UnindexedFilesUpdater@a12e8ce 
+2019-10-01 18:00:34,152 [  13648]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 835 ms 
+2019-10-01 18:00:34,802 [  14298]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 650 ms 
+2019-10-01 18:00:34,812 [  14308]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 8 ms 
+2019-10-01 18:00:34,987 [  14483]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: initial refresh 
+2019-10-01 18:00:35,038 [  14534]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@70e8a1c0 
+2019-10-01 18:00:35,042 [  14538]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 4ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-10-01 18:00:35,437 [  14933]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 1954ms under project opening modal progress 
+2019-10-01 18:00:35,561 [  15057]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.grunt.GruntfileManager 
+2019-10-01 18:00:35,562 [  15058]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.gulp.GulpfileManager 
+2019-10-01 18:00:35,563 [  15059]   INFO - Tools.base.JsbtStartupActivity - Detecting buildfiles for com.intellij.lang.javascript.buildTools.npm.PackageJsonFileManager 
+2019-10-01 18:00:35,584 [  15080]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 2289ms; general responsiveness: ok; EDT responsiveness: 2/2 sluggish 
+2019-10-01 18:00:36,109 [  15605]   INFO - cloudConfig.CloudConfigManager - === StatusBar.update create === 
+2019-10-01 18:00:36,134 [  15630]   INFO - cloudConfig.CloudConfigManager - === doConnect === 
+2019-10-01 18:00:36,135 [  15631]   INFO - cloudConfig.CloudConfigManager - === getConnectionState === 
+2019-10-01 18:00:36,844 [  16340]   INFO - .cloudConfig.CloudConfigClient - === Get cloud config URL: https://cloudconfig.jetbrains.com/cloudconfig/files === 
+2019-10-01 18:00:36,865 [  16361]   INFO - j.ide.ui.OptionsTopHitProvider - 608 ms spent on EDT to cache options in application 
+2019-10-01 18:00:37,120 [  16616]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 2074ms; general responsiveness: ok; EDT responsiveness: 1/2 sluggish, 1/2 very slow 
+2019-10-01 18:00:37,128 [  16624]   INFO - tartup.impl.StartupManagerImpl - /Users/apple/WebstormProjects/MILiveTemplates/.idea case-sensitivity: expected=false actual=false 
+2019-10-01 18:00:37,215 [  16711]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2019-10-01 18:00:37,424 [  16920]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [file:///Users/apple/WebstormProjects/MILiveTemplates/package.json] 
+2019-10-01 18:00:37,586 [  17082]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 7763 ms 
+2019-10-01 18:00:37,586 [  17082]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 1251 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 186 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - Dart loaded 168 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 107 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 100 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 94 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - Docker loaded 93 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 89 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 87 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 72 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 69 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 67 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 63 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 61 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 58 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 57 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 57 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vue loaded 52 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 50 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 45 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.meteor loaded 40 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 38 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 37 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 34 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 32 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - com.dmarcotte.handlebars loaded 31 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 29 classes 
+2019-10-01 18:00:37,587 [  17083]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 28 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.textmate loaded 27 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 26 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.jade loaded 26 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 22 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 21 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.lang.ejs loaded 21 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 21 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - NodeJS loaded 21 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 19 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 17 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 15 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 14 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.html.instantEditing loaded 14 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.watcher loaded 13 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vagrant loaded 12 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.performancePlugin loaded 11 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.github.masahirosuzuka.PhoneGapIntelliJPlugin loaded 10 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.yeoman loaded 10 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - intellij.prettierJS loaded 10 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - tslint loaded 8 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.asp loaded 7 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - Karma loaded 7 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks.timeTracking loaded 7 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 6 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.webcomponents loaded 5 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - cucumber-javascript loaded 5 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 5 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.node-remote-interpreter loaded 3 classes 
+2019-10-01 18:00:37,588 [  17084]   INFO - llij.ide.plugins.PluginManager - MILiveTemplate.MILiveTemplate loaded 2 classes 
+2019-10-01 18:00:37,650 [  17146]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2019-10-01 18:00:37,654 [  17150]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/apple/WebstormProjects/MILiveTemplates' MILiveTemplates 
+2019-10-01 18:00:37,886 [  17382]   INFO - j.ide.ui.OptionsTopHitProvider - 206 ms spent to cache options in project 
+2019-10-01 18:00:37,900 [  17396]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2019-10-01 18:00:37,901 [  17397]   INFO - tartup.impl.StartupManagerImpl - Activity run in 220ms on UI thread 
+2019-10-01 18:00:37,995 [  17491]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start another widget: com.intellij.cloudConfig.StatusBarInfoManager$InfoComponent@577c2752 === 
+2019-10-01 18:00:38,314 [  17810]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /Users/apple/WebstormProjects/MILiveTemplates/.idea/AA.iml 
+2019-10-01 18:00:38,314 [  17810]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /Users/apple/WebstormProjects/MILiveTemplates 
+2019-10-01 18:00:38,315 [  17811]   INFO - cript.buildTools.base.JsbtUtil - Detecting by children: [file:///Users/apple/WebstormProjects/MILiveTemplates/ios, file:///Users/apple/WebstormProjects/MILiveTemplates/.idea, file:///Users/apple/WebstormProjects/MILiveTemplates/App.js, file:///Users/apple/WebstormProjects/MILiveTemplates/android, file:///Users/apple/WebstormProjects/MILiveTemplates/app.json, file:///Users/apple/WebstormProjects/MILiveTemplates/index.js, file:///Users/apple/WebstormProjects/MILiveTemplates/__tests__, file:///Users/apple/WebstormProjects/MILiveTemplates/yarn.lock, file:///Users/apple/WebstormProjects/MILiveTemplates/.gitignore, file:///Users/apple/WebstormProjects/MILiveTemplates/.buckconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/.flowconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/.eslintrc.js, file:///Users/apple/WebstormProjects/MILiveTemplates/node_modules, file:///Users/apple/WebstormProjects/MILiveTemplates/package.json, file:///Users/apple/WebstormProjects/MILiveTemplates/.gitattributes, file:///Users/apple/WebstormProjects/MILiveTemplates/.prettierrc.js, file:///Users/apple/WebstormProjects/MILiveTemplates/.watchmanconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/babel.config.js, file:///Users/apple/WebstormProjects/MILiveTemplates/metro.config.js] 
+2019-10-01 18:00:38,315 [  17811]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.grunt.GruntService 
+2019-10-01 18:00:38,315 [  17811]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /Users/apple/WebstormProjects/MILiveTemplates/.idea/AA.iml 
+2019-10-01 18:00:38,316 [  17812]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /Users/apple/WebstormProjects/MILiveTemplates 
+2019-10-01 18:00:38,316 [  17812]   INFO - cript.buildTools.base.JsbtUtil - Detecting by children: [file:///Users/apple/WebstormProjects/MILiveTemplates/ios, file:///Users/apple/WebstormProjects/MILiveTemplates/.idea, file:///Users/apple/WebstormProjects/MILiveTemplates/App.js, file:///Users/apple/WebstormProjects/MILiveTemplates/android, file:///Users/apple/WebstormProjects/MILiveTemplates/app.json, file:///Users/apple/WebstormProjects/MILiveTemplates/index.js, file:///Users/apple/WebstormProjects/MILiveTemplates/__tests__, file:///Users/apple/WebstormProjects/MILiveTemplates/yarn.lock, file:///Users/apple/WebstormProjects/MILiveTemplates/.gitignore, file:///Users/apple/WebstormProjects/MILiveTemplates/.buckconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/.flowconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/.eslintrc.js, file:///Users/apple/WebstormProjects/MILiveTemplates/node_modules, file:///Users/apple/WebstormProjects/MILiveTemplates/package.json, file:///Users/apple/WebstormProjects/MILiveTemplates/.gitattributes, file:///Users/apple/WebstormProjects/MILiveTemplates/.prettierrc.js, file:///Users/apple/WebstormProjects/MILiveTemplates/.watchmanconfig, file:///Users/apple/WebstormProjects/MILiveTemplates/babel.config.js, file:///Users/apple/WebstormProjects/MILiveTemplates/metro.config.js] 
+2019-10-01 18:00:38,316 [  17812]   INFO - Tools.base.JsbtStartupActivity - Found [] for com.intellij.lang.javascript.buildTools.gulp.GulpService 
+2019-10-01 18:00:38,317 [  17813]   INFO - cript.buildTools.base.JsbtUtil - Iterating over content roots for module /Users/apple/WebstormProjects/MILiveTemplates/.idea/AA.iml 
+2019-10-01 18:00:38,317 [  17813]   INFO - cript.buildTools.base.JsbtUtil - Detecting in content root /Users/apple/WebstormProjects/MILiveTemplates 
+2019-10-01 18:00:38,318 [  17814]   INFO - ols.npm.PackageJsonFileManager - Found package.json in /Users/apple/WebstormProjects/MILiveTemplates: file:///Users/apple/WebstormProjects/MILiveTemplates/package.json 
+2019-10-01 18:00:38,331 [  17827]   INFO - Tools.base.JsbtStartupActivity - Found [file:///Users/apple/WebstormProjects/MILiveTemplates/package.json] for com.intellij.lang.javascript.buildTools.npm.NpmScriptsService 
+2019-10-01 18:00:38,406 [  17902]   INFO - son.PackageVersionRangeMatcher - Matching 10 done in 860 ms 
+2019-10-01 18:00:39,002 [  18498]   INFO - j.ide.ui.OptionsTopHitProvider - 381 ms spent on EDT to cache options in project 
+2019-10-01 18:00:39,575 [  19071]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019-10-01 17:57) 
+2019-10-01 18:00:40,036 [  19532]   INFO - cloudConfig.CloudConfigManager - === End.connect === 
+2019-10-01 18:00:44,720 [  24216]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019-10-01 17:57) 
+2019-10-01 18:00:45,647 [  25143]   INFO - ntellij.internal.IconsLoadTime - SVG load time: total=669.60ms, average=6.70ms, median=16.02ms; number of icons: 100 
+2019-10-01 18:00:54,580 [  34076]   INFO - tellij.xml.Html5SchemaProvider - HTML5_SCHEMA_LOCATION = com.intellij.openapi.util.AtomicNotNullLazyValue$1@5e8033fe 
+2019-10-01 18:01:09,790 [  49286]   INFO - rationStore.ComponentStoreImpl - Saving appFileTypeManager took 12 ms 
+2019-10-01 18:01:10,217 [  49713]   INFO - rationStore.ComponentStoreImpl - Saving Project '/Users/apple/WebstormProjects/MILiveTemplates' MILiveTemplatesProjectCodeStyleConfiguration took 25 ms, RunManager took 21 ms 
+2019-10-01 18:01:10,278 [  49774]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 600 ms 
+2019-10-01 18:02:15,055 [ 114551]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 38 ms 
+2019-10-01 18:02:38,212 [ 137708]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 41 ms 
+2019-10-01 18:02:42,138 [ 141634]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 37 ms 
+2019-10-01 18:03:09,402 [ 168898]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 47 ms 
+2019-10-01 18:03:43,302 [ 202798]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 543 ms 
+2019-10-01 18:09:07,670 [ 527166]   INFO - rationStore.ComponentStoreImpl - Saving Project '/Users/apple/WebstormProjects/MILiveTemplates' MILiveTemplatesProjectView took 133 ms, RunManager took 15 ms, XDebuggerManager took 31 ms 
+2019-10-01 18:09:07,796 [ 527292]   INFO - mponents.impl.stores.StoreUtil - saveProjectsAndApp took 491 ms 
+2019-10-01 18:24:22,408 [1441904]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-10-01 18:24:22,471 [1441967]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-10-01 18:24:22,472 [1441968]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-10-01 18:24:22,472 [1441968]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-10-01 18:24:22,481 [1441977]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-10-01 18:24:22,482 [1441978]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-10-01 18:24:22,482 [1441978]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-10-01 18:24:22,489 [1441985]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-10-01 18:24:30,472 [      1]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-10-01 18:24:30,535 [     64]   INFO -        #com.intellij.idea.Main - IDE: WebStorm (build #WS-191.7479.14, 27 May 2019 13:46) 
+2019-10-01 18:24:30,535 [     64]   INFO -        #com.intellij.idea.Main - OS: Mac OS X (10.14.4, x86_64) 
+2019-10-01 18:24:30,535 [     64]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_212-b03 (AdoptOpenJDK) 
+2019-10-01 18:24:30,535 [     64]   INFO -        #com.intellij.idea.Main - JVM: 25.212-b03 (OpenJDK 64-Bit Server VM) 
+2019-10-01 18:24:30,544 [     73]   INFO -        #com.intellij.idea.Main - JVM Args: -Dapple.awt.fileDialogForDirectories=true -Dapple.laf.useScreenMenuBar=true -Didea.classpath.index.enabled=false -Didea.config.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/config -Didea.is.internal=true -Didea.platform.prefix=WebStorm -Didea.plugins.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/plugins -Didea.required.plugins.id=MILiveTemplate.MILiveTemplate -Didea.smooth.progress=false -Didea.system.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/system -Xms256m -Xmx512m -Dfile.encoding=UTF-8 -Duser.country=IN -Duser.language=en -Duser.variant -ea 
+2019-10-01 18:24:30,544 [     73]   INFO -        #com.intellij.idea.Main - ext: /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext: [sunec.jar, nashorn.jar, cldrdata.jar, dnsns.jar, localedata.jar, sunjce_provider.jar, meta-index, sunpkcs11.jar, jaccess.jar, zipfs.jar] 
+2019-10-01 18:24:30,545 [     74]   INFO -        #com.intellij.idea.Main - ext: /System/Library/Java/Extensions: [MRJToolkit.jar] 
+2019-10-01 18:24:30,545 [     74]   INFO -        #com.intellij.idea.Main - charsets: JNU=UTF-8 file=UTF-8 
+2019-10-01 18:24:30,568 [     97]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 22 ms 
+2019-10-01 18:24:30,611 [    140]   INFO -        #com.intellij.idea.Main - initializing environment 
+2019-10-01 18:24:30,614 [    143]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/bash -l -i -c '/Applications/WebStorm.app/Contents/bin/printenv.py' '/private/var/folders/vj/w117x5_s5075bc8f566n16ph0000gn/T/intellij-shell-env.tmp' 
+2019-10-01 18:24:30,954 [    483]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-10-01 18:24:30,972 [    501]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-10-01 18:24:32,373 [   1902]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (21 vars) 
+2019-10-01 18:24:33,229 [   2758]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2019-10-01 18:24:33,230 [   2759]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2019-10-01 18:24:33,374 [   2903]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2019-10-01 18:24:33,575 [   3104]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 490 ms 
+2019-10-01 18:24:36,440 [   5969]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@437376df[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@54f5fa1a 
+2019-10-01 18:24:36,834 [   6363]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2019-10-01 18:24:36,835 [   6364]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2019-10-01 18:24:36,901 [   6430]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2019-10-01 18:24:37,010 [   6539]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 196 ms 
+2019-10-01 18:24:37,034 [   6563]   INFO - llij.ide.plugins.PluginManager - Plugin 'IntelliJ Configuration Script' can't be loaded because: Plugin does not include any module dependency tags in its plugin.xml therefore is assumed legacy and can be loaded only in IntelliJ IDEA 
+2019-10-01 18:24:37,202 [   6731]   INFO - llij.ide.plugins.PluginManager - 60 plugins initialized in 389 ms 
+2019-10-01 18:24:37,203 [   6732]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (191.7479.14), Angular and AngularJS (191.7479.14), CSS Support (191.7479.14), CoffeeScript (191.7479.14), Copyright (191.7479.14), Cucumber.js (191.7479.14), Dart (191.7479.14), Docker integration (191.7479.14), EJS (191.7479.14), EditorConfig (191.7479.14), File Watchers (191.7479.14), Gherkin (191.7479.14), Git Integration (191.7479.14), GitHub (191.7479.14), HTML Tools (191.7479.14), HTTP Client (191.7479.14), Haml (191.7479.14), Handlebars/Mustache (191.7479.14), IDE Settings Sync (191.7479.14), IDEA CORE (191.7479.14), IntelliLang (191.7479.14), Java Server Pages (JSP) Integration (191.7479.14), JavaScript Debugger (191.7479.14), JavaScript Intention Power Pack (191.7479.14), JavaScript Support (191.7479.14), Karma (191.7479.14), Less support (191.7479.14), LiveEdit (191.7479.14), Markdown support (191.7479.14), Mercurial Integration (191.7479.14), Meteor (191.7479.14), Node.js Remote Interpreter (191.7479.14), NodeJS (191.7479.14), Performance Testing (191.7479.14), PhoneGap/Cordova Plugin (191.7479.14), Polymer & Web Components (191.7479.14), Prettier (191.7479.14), Pug (ex-Jade) (191.7479.14), Refactor-X (191.7479.14), Remote Hosts Access (191.7479.14), SSH Remote Run (191.7479.14), Sass support (191.7479.14), Settings Repository (191.7479.14), Spy-js (191.7479.14), Stylus support (191.7479.14), Subversion (191.7479.14), Task Management (191.7479.14), Terminal (191.7479.14), TextMate bundles support (191.7479.14), Time Tracking (191.7479.14), UML Support (191.7479.14), Vagrant (191.7479.14), Vue.js (191.7479.14), W3C Validators (191.7479.14), XPathView + XSLT Support (191.7479.14), YAML (191.7479.14), Yeoman (191.7479.14), tslint (191.7479.14) 
+2019-10-01 18:24:37,203 [   6732]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: MILiveTemplates (0.1) 
+2019-10-01 18:24:37,203 [   6732]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: IntelliJ Configuration Script (191.7479.14) 
+2019-10-01 18:24:37,620 [   7149]   INFO - cloudConfig.CloudConfigManager - === Start.updateConnection === 
+2019-10-01 18:24:37,660 [   7189]   INFO - cloudConfig.CloudConfigManager - === Start: JBA_CONNECTED === 
+2019-10-01 18:24:37,805 [   7334]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2019-10-01 18:24:37,805 [   7334]   INFO - pi.util.registry.RegistryState -   ide.tooltip.show.with.actions = true 
+2019-10-01 18:24:37,805 [   7334]   INFO - pi.util.registry.RegistryState -   java.completion.argument.hints.internal = false 
+2019-10-01 18:24:37,855 [   7384]   INFO - pi.util.registry.RegistryState - Experimental features enabled for user: inline.browse.button, linux.native.menu, recent.and.edited.files.together 
+2019-10-01 18:24:37,918 [   7447]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=435; buffer=10; max=435 
+2019-10-01 18:24:37,995 [   7524]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /Applications/WebStorm.app/Contents/bin/fsnotifier 
+2019-10-01 18:24:38,033 [   7562]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-10-01 18:24:39,399 [   8928]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-10-01 18:24:39,456 [   8985]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63344 
+2019-10-01 18:24:39,496 [   9025]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2019-10-01 18:24:39,718 [   9247]   INFO - tellij.ide.SystemHealthMonitor - issue detected: bundled.jre.version.message 
+2019-10-01 18:24:39,898 [   9427]   INFO - m.intellij.ui.mac.touchbar.NST - touchbar-server isn't running, skip nst loading 
+2019-10-01 18:24:39,928 [   9457]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2019-10-01 18:24:40,123 [   9652]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:77, number of extensions:40 
+2019-10-01 18:24:40,131 [   9660]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:7 
+2019-10-01 18:24:40,252 [   9781]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:64, number of extensions:74 
+2019-10-01 18:24:40,253 [   9782]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2019-10-01 18:24:40,470 [   9999]   INFO - plication.impl.ApplicationImpl - 72 application components initialized in 3663ms 
+2019-10-01 18:24:40,598 [  10127]   INFO - .intellij.idea.IdeaApplication - App initialization took 12079 ms 
+2019-10-01 18:24:40,599 [  10128]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 421 classes 
+2019-10-01 18:24:40,599 [  10128]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 113 classes 
+2019-10-01 18:24:40,599 [  10128]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 87 classes 
+2019-10-01 18:24:40,599 [  10128]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 52 classes 
+2019-10-01 18:24:40,599 [  10128]   INFO - llij.ide.plugins.PluginManager - Dart loaded 43 classes 
+2019-10-01 18:24:40,599 [  10128]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vue loaded 37 classes 
+2019-10-01 18:24:40,599 [  10128]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 30 classes 
+2019-10-01 18:24:40,599 [  10128]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 25 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - Docker loaded 22 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 21 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 20 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 20 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.textmate loaded 19 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 17 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 17 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 15 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 15 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 14 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 13 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.jade loaded 13 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.lang.ejs loaded 13 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 12 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 12 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 12 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 11 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - com.dmarcotte.handlebars loaded 11 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 11 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 11 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 9 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 9 classes 
+2019-10-01 18:24:40,600 [  10129]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.meteor loaded 8 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.asp loaded 7 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 5 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 4 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 3 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 3 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 3 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.webcomponents loaded 2 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - NodeJS loaded 2 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 2 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - MILiveTemplate.MILiveTemplate loaded 2 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 2 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - intellij.prettierJS loaded 1 classes 
+2019-10-01 18:24:40,601 [  10130]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vagrant loaded 1 classes 
+2019-10-01 18:24:41,291 [  10820]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 776 ms 
+2019-10-01 18:24:41,313 [  10842]   INFO - pl$FileIndexDataInitialization - Initialization done:1181 
+2019-10-01 18:24:41,451 [  10980]   INFO - j.ide.ui.OptionsTopHitProvider - 2156 ms spent to cache options in application 
+2019-10-01 18:24:41,451 [  10980]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 2155 ms 
+2019-10-01 18:24:41,800 [  11329]   INFO - exImpl$StubIndexInitialization - Initialization done:486 
+2019-10-01 18:24:42,148 [  11677]   WARN - j.ui.mac.MacMainFrameDecorator - no url bundle present. 
+To use platform protocol handler to open external links specify required protocols in the mac app layout section of the build file
+Example: args.urlSchemes = ["your-protocol"] will handle following links: your-protocol://open?file=file&line=line 
+2019-10-01 18:24:44,196 [  13725]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-10-01 18:24:45,402 [  14931]   INFO - ellij.project.impl.ProjectImpl - 102 project components initialized in 2430 ms 
+2019-10-01 18:24:45,525 [  15054]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 118 ms 
+2019-10-01 18:24:45,888 [  15417]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 4437 ms 
+2019-10-01 18:24:46,088 [  15617]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2019-10-01 18:24:47,019 [  16548]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2019-10-01 18:24:48,248 [  17777]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 2356 ms 
+2019-10-01 18:24:48,628 [  18157]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2019-10-01 18:24:48,940 [  18469]   INFO - ntellij.internal.IconsLoadTime - IMG load time: ide_startup=5.59ms, average=1.86ms, median=1.51ms; number of icons: 3 
+2019-10-01 18:24:48,941 [  18470]   INFO - ntellij.internal.IconsLoadTime - SVG load time: ide_startup=231.84ms, average=9.66ms, median=7.52ms; number of icons: 24 
+2019-10-01 18:24:48,985 [  18514]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@1b9345a3 
+2019-10-01 18:24:49,158 [  18687]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 906 ms 
+2019-10-01 18:24:49,165 [  18694]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 178ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-10-01 18:24:49,175 [  18704]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 15 ms 
+2019-10-01 18:24:50,300 [  19829]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 1353ms under project opening modal progress 
+2019-10-01 18:24:50,417 [  19946]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 1629ms; general responsiveness: ok; EDT responsiveness: 0/2 sluggish, 1/2 very slow 
+2019-10-01 18:24:50,904 [  20433]   INFO - cloudConfig.CloudConfigManager - === StatusBar.update create === 
+2019-10-01 18:24:50,905 [  20434]   INFO - cloudConfig.CloudConfigManager - === doConnect === 
+2019-10-01 18:24:50,906 [  20435]   INFO - cloudConfig.CloudConfigManager - === getConnectionState === 
+2019-10-01 18:24:51,502 [  21031]   INFO - j.ide.ui.OptionsTopHitProvider - 477 ms spent on EDT to cache options in application 
+2019-10-01 18:24:51,568 [  21097]   INFO - .cloudConfig.CloudConfigClient - === Get cloud config URL: https://cloudconfig.jetbrains.com/cloudconfig/files === 
+2019-10-01 18:24:51,698 [  21227]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 2530ms; general responsiveness: ok; EDT responsiveness: 1/3 sluggish, 1/3 very slow 
+2019-10-01 18:24:51,756 [  21285]   INFO - tartup.impl.StartupManagerImpl - /Users/apple/WebstormProjects/MILiveTemplates/.idea case-sensitivity: expected=false actual=false 
+2019-10-01 18:24:51,789 [  21318]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: initial refresh 
+2019-10-01 18:24:51,798 [  21327]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2019-10-01 18:24:51,886 [  21415]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [file:///Users/apple/WebstormProjects/MILiveTemplates/package.json] 
+2019-10-01 18:24:52,168 [  21697]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 9534 ms 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 1268 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 187 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - Dart loaded 162 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 107 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 99 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - Docker loaded 94 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 94 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 89 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 87 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 70 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 69 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 61 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 61 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 57 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 57 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 57 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 53 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vue loaded 52 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 50 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 45 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 38 classes 
+2019-10-01 18:24:52,169 [  21698]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 37 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.meteor loaded 37 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 34 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 32 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.dmarcotte.handlebars loaded 31 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 28 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 28 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.jade loaded 27 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 27 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 22 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.textmate loaded 21 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 21 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 21 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.lang.ejs loaded 21 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 19 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - NodeJS loaded 18 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 18 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 15 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 14 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.html.instantEditing loaded 14 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.watcher loaded 13 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vagrant loaded 12 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.performancePlugin loaded 11 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.github.masahirosuzuka.PhoneGapIntelliJPlugin loaded 10 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.yeoman loaded 10 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - intellij.prettierJS loaded 9 classes 
+2019-10-01 18:24:52,170 [  21699]   INFO - llij.ide.plugins.PluginManager - tslint loaded 8 classes 
+2019-10-01 18:24:52,171 [  21700]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.asp loaded 7 classes 
+2019-10-01 18:24:52,171 [  21700]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks.timeTracking loaded 7 classes 
+2019-10-01 18:24:52,171 [  21700]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 6 classes 
+2019-10-01 18:24:52,171 [  21700]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.webcomponents loaded 5 classes 
+2019-10-01 18:24:52,171 [  21700]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 5 classes 
+2019-10-01 18:24:52,171 [  21700]   INFO - llij.ide.plugins.PluginManager - cucumber-javascript loaded 5 classes 
+2019-10-01 18:24:52,171 [  21700]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.node-remote-interpreter loaded 3 classes 
+2019-10-01 18:24:52,171 [  21700]   INFO - llij.ide.plugins.PluginManager - MILiveTemplate.MILiveTemplate loaded 2 classes 
+2019-10-01 18:24:52,171 [  21700]   INFO - llij.ide.plugins.PluginManager - Karma loaded 1 classes 
+2019-10-01 18:24:52,593 [  22122]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2019-10-01 18:24:52,617 [  22146]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/apple/WebstormProjects/MILiveTemplates' MILiveTemplates 
+2019-10-01 18:24:52,905 [  22434]   INFO - son.PackageVersionRangeMatcher - Matching 10 done in 818 ms 
+2019-10-01 18:24:52,916 [  22445]   INFO - j.ide.ui.OptionsTopHitProvider - 287 ms spent to cache options in project 
+2019-10-01 18:24:52,917 [  22446]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2019-10-01 18:24:52,917 [  22446]   INFO - tartup.impl.StartupManagerImpl - Activity run in 288ms on UI thread 
+2019-10-01 18:24:52,996 [  22525]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start another widget: com.intellij.cloudConfig.StatusBarInfoManager$InfoComponent@5ed6040c === 
+2019-10-01 18:24:53,855 [  23384]   INFO - j.ide.ui.OptionsTopHitProvider - 254 ms spent on EDT to cache options in project 
+2019-10-01 18:24:54,465 [  23994]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019-10-01 18:24) 
+2019-10-01 18:24:54,692 [  24221]   INFO - cloudConfig.CloudConfigManager - === End.connect === 
+2019-10-01 18:33:52,136 [ 561665]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2019-10-01 18:33:52,188 [ 561717]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2019-10-01 18:33:52,188 [ 561717]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2019-10-01 18:33:52,189 [ 561718]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2019-10-01 18:33:52,193 [ 561722]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2019-10-01 18:33:52,196 [ 561725]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2019-10-01 18:33:52,196 [ 561725]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2019-10-01 18:33:52,201 [ 561730]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2019-10-01 18:33:57,954 [      0]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE STARTED ------------------------------------------------------ 
+2019-10-01 18:33:58,023 [     69]   INFO -        #com.intellij.idea.Main - IDE: WebStorm (build #WS-191.7479.14, 27 May 2019 13:46) 
+2019-10-01 18:33:58,023 [     69]   INFO -        #com.intellij.idea.Main - OS: Mac OS X (10.14.4, x86_64) 
+2019-10-01 18:33:58,024 [     70]   INFO -        #com.intellij.idea.Main - JRE: 1.8.0_212-b03 (AdoptOpenJDK) 
+2019-10-01 18:33:58,024 [     70]   INFO -        #com.intellij.idea.Main - JVM: 25.212-b03 (OpenJDK 64-Bit Server VM) 
+2019-10-01 18:33:58,036 [     82]   INFO -        #com.intellij.idea.Main - JVM Args: -Dapple.awt.fileDialogForDirectories=true -Dapple.laf.useScreenMenuBar=true -Didea.classpath.index.enabled=false -Didea.config.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/config -Didea.is.internal=true -Didea.platform.prefix=WebStorm -Didea.plugins.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/plugins -Didea.required.plugins.id=MILiveTemplate.MILiveTemplate -Didea.smooth.progress=false -Didea.system.path=/Users/apple/IdeaProjects/MILiveTemplate/build/idea-sandbox/system -Xms256m -Xmx512m -Dfile.encoding=UTF-8 -Duser.country=IN -Duser.language=en -Duser.variant -ea 
+2019-10-01 18:33:58,037 [     83]   INFO -        #com.intellij.idea.Main - ext: /Library/Java/JavaVirtualMachines/adoptopenjdk-8.jdk/Contents/Home/jre/lib/ext: [sunec.jar, nashorn.jar, cldrdata.jar, dnsns.jar, localedata.jar, sunjce_provider.jar, meta-index, sunpkcs11.jar, jaccess.jar, zipfs.jar] 
+2019-10-01 18:33:58,037 [     83]   INFO -        #com.intellij.idea.Main - ext: /System/Library/Java/Extensions: [MRJToolkit.jar] 
+2019-10-01 18:33:58,037 [     83]   INFO -        #com.intellij.idea.Main - charsets: JNU=UTF-8 file=UTF-8 
+2019-10-01 18:33:58,073 [    119]   INFO -        #com.intellij.idea.Main - JNA library (64-bit) loaded in 36 ms 
+2019-10-01 18:33:58,145 [    191]   INFO -        #com.intellij.idea.Main - initializing environment 
+2019-10-01 18:33:58,146 [    192]   INFO - .intellij.util.EnvironmentUtil - loading shell env: /bin/bash -l -i -c '/Applications/WebStorm.app/Contents/bin/printenv.py' '/private/var/folders/vj/w117x5_s5075bc8f566n16ph0000gn/T/intellij-shell-env.tmp' 
+2019-10-01 18:33:58,400 [    446]   INFO -     #com.intellij.util.ui.JBUI - User scale factor: 1.0 
+2019-10-01 18:33:58,427 [    473]   INFO -     #com.intellij.util.ui.JBUI - System scale factor: 1.0 (JRE-managed HiDPI) 
+2019-10-01 18:33:59,806 [   1852]   INFO - .intellij.util.EnvironmentUtil - shell environment loaded (21 vars) 
+2019-10-01 18:34:00,787 [   2833]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2019-10-01 18:34:00,788 [   2834]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2019-10-01 18:34:00,906 [   2952]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2019-10-01 18:34:01,081 [   3127]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 397 ms 
+2019-10-01 18:34:04,243 [   6289]   INFO - .intellij.idea.IdeaApplication - CPU cores: 4; ForkJoinPool.commonPool: java.util.concurrent.ForkJoinPool@3a1f07fd[Running, parallelism = 3, size = 0, active = 0, running = 0, steals = 0, tasks = 0, submissions = 0]; factory: com.intellij.concurrency.IdeaForkJoinWorkerThreadFactory@58b29ebd 
+2019-10-01 18:34:04,718 [   6764]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-properties-support.xml 
+2019-10-01 18:34:04,718 [   6764]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor uml-java-support.xml 
+2019-10-01 18:34:04,787 [   6833]   INFO - llij.ide.plugins.PluginManager - Cannot find optional descriptor js-nashorn-support.xml 
+2019-10-01 18:34:04,867 [   6913]   INFO - llij.ide.plugins.PluginManager - load plugin descriptors took 184 ms 
+2019-10-01 18:34:04,894 [   6940]   INFO - llij.ide.plugins.PluginManager - Plugin 'IntelliJ Configuration Script' can't be loaded because: Plugin does not include any module dependency tags in its plugin.xml therefore is assumed legacy and can be loaded only in IntelliJ IDEA 
+2019-10-01 18:34:05,079 [   7125]   INFO - llij.ide.plugins.PluginManager - 60 plugins initialized in 397 ms 
+2019-10-01 18:34:05,080 [   7126]   INFO - llij.ide.plugins.PluginManager - Loaded bundled plugins: ASP (191.7479.14), Angular and AngularJS (191.7479.14), CSS Support (191.7479.14), CoffeeScript (191.7479.14), Copyright (191.7479.14), Cucumber.js (191.7479.14), Dart (191.7479.14), Docker integration (191.7479.14), EJS (191.7479.14), EditorConfig (191.7479.14), File Watchers (191.7479.14), Gherkin (191.7479.14), Git Integration (191.7479.14), GitHub (191.7479.14), HTML Tools (191.7479.14), HTTP Client (191.7479.14), Haml (191.7479.14), Handlebars/Mustache (191.7479.14), IDE Settings Sync (191.7479.14), IDEA CORE (191.7479.14), IntelliLang (191.7479.14), Java Server Pages (JSP) Integration (191.7479.14), JavaScript Debugger (191.7479.14), JavaScript Intention Power Pack (191.7479.14), JavaScript Support (191.7479.14), Karma (191.7479.14), Less support (191.7479.14), LiveEdit (191.7479.14), Markdown support (191.7479.14), Mercurial Integration (191.7479.14), Meteor (191.7479.14), Node.js Remote Interpreter (191.7479.14), NodeJS (191.7479.14), Performance Testing (191.7479.14), PhoneGap/Cordova Plugin (191.7479.14), Polymer & Web Components (191.7479.14), Prettier (191.7479.14), Pug (ex-Jade) (191.7479.14), Refactor-X (191.7479.14), Remote Hosts Access (191.7479.14), SSH Remote Run (191.7479.14), Sass support (191.7479.14), Settings Repository (191.7479.14), Spy-js (191.7479.14), Stylus support (191.7479.14), Subversion (191.7479.14), Task Management (191.7479.14), Terminal (191.7479.14), TextMate bundles support (191.7479.14), Time Tracking (191.7479.14), UML Support (191.7479.14), Vagrant (191.7479.14), Vue.js (191.7479.14), W3C Validators (191.7479.14), XPathView + XSLT Support (191.7479.14), YAML (191.7479.14), Yeoman (191.7479.14), tslint (191.7479.14) 
+2019-10-01 18:34:05,080 [   7126]   INFO - llij.ide.plugins.PluginManager - Loaded custom plugins: MILiveTemplates (0.1) 
+2019-10-01 18:34:05,080 [   7126]   INFO - llij.ide.plugins.PluginManager - Disabled plugins: IntelliJ Configuration Script (191.7479.14) 
+2019-10-01 18:34:05,616 [   7662]   INFO - cloudConfig.CloudConfigManager - === Start.updateConnection === 
+2019-10-01 18:34:05,668 [   7714]   INFO - cloudConfig.CloudConfigManager - === Start: JBA_CONNECTED === 
+2019-10-01 18:34:05,817 [   7863]   INFO - pi.util.registry.RegistryState - Registry values changed by user: 
+2019-10-01 18:34:05,817 [   7863]   INFO - pi.util.registry.RegistryState -   ide.tooltip.show.with.actions = true 
+2019-10-01 18:34:05,817 [   7863]   INFO - pi.util.registry.RegistryState -   java.completion.argument.hints.internal = false 
+2019-10-01 18:34:05,869 [   7915]   INFO - pi.util.registry.RegistryState - Experimental features enabled for user: inline.browse.button, linux.native.menu, recent.and.edited.files.together 
+2019-10-01 18:34:05,950 [   7996]   INFO - ellij.util.io.PagedFileStorage - lower=100; upper=435; buffer=10; max=435 
+2019-10-01 18:34:06,040 [   8086]   INFO - pl.local.NativeFileWatcherImpl - Starting file watcher: /Applications/WebStorm.app/Contents/bin/fsnotifier 
+2019-10-01 18:34:06,079 [   8125]   INFO - pl.local.NativeFileWatcherImpl - Native file watcher is operational. 
+2019-10-01 18:34:07,825 [   9871]   INFO - til.net.ssl.CertificateManager - Default SSL context initialized 
+2019-10-01 18:34:07,950 [   9996]   WARN - com.intellij.util.xmlb.Binding - no accessors for interface com.intellij.openapi.extensions.PluginDescriptor 
+2019-10-01 18:34:08,178 [  10224]   INFO - tellij.ide.SystemHealthMonitor - issue detected: bundled.jre.version.message 
+2019-10-01 18:34:08,180 [  10226]   INFO - rains.ide.BuiltInServerManager - built-in server started, port 63344 
+2019-10-01 18:34:08,378 [  10424]   INFO - m.intellij.ui.mac.touchbar.NST - touchbar-server isn't running, skip nst loading 
+2019-10-01 18:34:08,417 [  10463]   INFO - gs.impl.UpdateCheckerComponent - channel: release 
+2019-10-01 18:34:08,635 [  10681]   INFO - il.indexing.FileBasedIndexImpl - Index exts enumerated:85, number of extensions:40 
+2019-10-01 18:34:08,644 [  10690]   INFO - il.indexing.FileBasedIndexImpl - Index scheduled:8 
+2019-10-01 18:34:08,780 [  10826]   INFO - tellij.psi.stubs.StubIndexImpl - All stub exts enumerated:114, number of extensions:74 
+2019-10-01 18:34:08,781 [  10827]   INFO - tellij.psi.stubs.StubIndexImpl - stub exts update scheduled:0 
+2019-10-01 18:34:09,063 [  11109]   INFO - plication.impl.ApplicationImpl - 72 application components initialized in 4392ms 
+2019-10-01 18:34:09,118 [  11164]   INFO - .intellij.idea.IdeaApplication - App initialization took 13023 ms 
+2019-10-01 18:34:09,119 [  11165]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 412 classes 
+2019-10-01 18:34:09,119 [  11165]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 113 classes 
+2019-10-01 18:34:09,119 [  11165]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 87 classes 
+2019-10-01 18:34:09,119 [  11165]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 49 classes 
+2019-10-01 18:34:09,119 [  11165]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vue loaded 34 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - Dart loaded 34 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 30 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 25 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - Docker loaded 22 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 20 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 20 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.textmate loaded 18 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 21 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 17 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 16 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 15 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 14 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 13 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 12 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.jade loaded 11 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 11 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 11 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 11 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 11 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 10 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 9 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 9 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.asp loaded 7 classes 
+2019-10-01 18:34:09,120 [  11166]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 7 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.meteor loaded 7 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - com.dmarcotte.handlebars loaded 6 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 5 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.lang.ejs loaded 5 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 4 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 3 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 3 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 3 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 2 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - MILiveTemplate.MILiveTemplate loaded 2 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - NodeJS loaded 2 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.webcomponents loaded 2 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 2 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - intellij.prettierJS loaded 1 classes 
+2019-10-01 18:34:09,121 [  11167]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vagrant loaded 1 classes 
+2019-10-01 18:34:09,461 [  11507]   INFO - ellij.project.impl.ProjectImpl - 15 project components initialized in 365 ms 
+2019-10-01 18:34:09,498 [  11544]   INFO - pl$FileIndexDataInitialization - Initialization done:853 
+2019-10-01 18:34:09,508 [  11554]   INFO - j.ide.ui.OptionsTopHitProvider - 1820 ms spent to cache options in application 
+2019-10-01 18:34:09,508 [  11554]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.OptionsTopHitProvider$Activity took 1820 ms 
+2019-10-01 18:34:09,710 [  11756]   INFO - exImpl$StubIndexInitialization - Initialization done:212 
+2019-10-01 18:34:09,834 [  11880]   WARN - j.ui.mac.MacMainFrameDecorator - no url bundle present. 
+To use platform protocol handler to open external links specify required protocols in the mac app layout section of the build file
+Example: args.urlSchemes = ["your-protocol"] will handle following links: your-protocol://open?file=file&line=line 
+2019-10-01 18:34:11,287 [  13333]   INFO - com.intellij.ide.ui.UISettings - Loaded: fontSize=12, fontScale=1.0; restored: fontSize=12, fontScale=1.0 
+2019-10-01 18:34:12,382 [  14428]   INFO - ellij.project.impl.ProjectImpl - 102 project components initialized in 2021 ms 
+2019-10-01 18:34:12,464 [  14510]   INFO - le.impl.ModuleManagerComponent - 1 module(s) loaded in 81 ms 
+2019-10-01 18:34:12,623 [  14669]   INFO - j.ide.script.IdeStartupScripts - 0 startup script(s) found 
+2019-10-01 18:34:12,761 [  14807]   INFO - .openapi.application.Preloader - com.intellij.openapi.actionSystem.impl.ActionPreloader took 3252 ms 
+2019-10-01 18:34:12,998 [  15044]   INFO - om.intellij.util.ProfilingUtil - Profiling agent is not enabled. Add -agentlib:yjpagent to idea.vmoptions if necessary to profile IDEA. 
+2019-10-01 18:34:13,785 [  15831]   INFO -              PerformancePlugin - Performance Plugin is in silent mode 
+2019-10-01 18:34:14,080 [  16126]   INFO - .openapi.application.Preloader - com.intellij.ide.ui.search.SearchableOptionPreloader took 1319 ms 
+2019-10-01 18:34:14,112 [  16158]   INFO - ntellij.internal.IconsLoadTime - IMG load time: ide_startup=3.77ms, average=1.26ms, median=0.97ms; number of icons: 3 
+2019-10-01 18:34:14,112 [  16158]   INFO - ntellij.internal.IconsLoadTime - SVG load time: ide_startup=101.00ms, average=4.39ms, median=4.65ms; number of icons: 23 
+2019-10-01 18:34:14,137 [  16183]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: com.intellij.util.indexing.UnindexedFilesUpdater@67a0646b 
+2019-10-01 18:34:14,365 [  16411]   INFO - .diagnostic.PerformanceWatcher - Pushing properties took 224ms; general responsiveness: ok; EDT responsiveness: ok 
+2019-10-01 18:34:14,792 [  16838]   INFO - .openapi.application.Preloader - com.intellij.codeInsight.completion.CompletionPreloader took 710 ms 
+2019-10-01 18:34:14,805 [  16851]   INFO - .openapi.application.Preloader - com.intellij.ide.actions.GotoClassPresentationUpdater took 11 ms 
+2019-10-01 18:34:16,203 [  18249]   INFO - tartup.impl.StartupManagerImpl - OpenFilesActivity run in 2086ms under project opening modal progress 
+2019-10-01 18:34:16,350 [  18396]   INFO - .diagnostic.PerformanceWatcher - Post-startup activities under progress took 2403ms; general responsiveness: ok; EDT responsiveness: 0/2 sluggish, 2/2 very slow 
+2019-10-01 18:34:17,635 [  19681]   INFO - cloudConfig.CloudConfigManager - === StatusBar.update create === 
+2019-10-01 18:34:17,712 [  19758]   INFO - cloudConfig.CloudConfigManager - === doConnect === 
+2019-10-01 18:34:17,712 [  19758]   INFO - cloudConfig.CloudConfigManager - === getConnectionState === 
+2019-10-01 18:34:18,335 [  20381]   INFO - .cloudConfig.CloudConfigClient - === Get cloud config URL: https://cloudconfig.jetbrains.com/cloudconfig/files === 
+2019-10-01 18:34:18,421 [  20467]   INFO - j.ide.ui.OptionsTopHitProvider - 563 ms spent on EDT to cache options in application 
+2019-10-01 18:34:18,803 [  20849]   INFO - tartup.impl.StartupManagerImpl - /Users/apple/WebstormProjects/MILiveTemplates/.idea case-sensitivity: expected=false actual=false 
+2019-10-01 18:34:18,837 [  20883]   INFO - pl.projectlevelman.NewMappings - VCS Root: [] - [<Project>] 
+2019-10-01 18:34:18,850 [  20896]   INFO - .diagnostic.PerformanceWatcher - Indexable file iteration took 4483ms; general responsiveness: ok; EDT responsiveness: 2/5 sluggish, 3/5 very slow 
+2019-10-01 18:34:18,859 [  20905]   INFO - Json.PackageJsonUpdateNotifier - processPackageJsonFiles [file:///Users/apple/WebstormProjects/MILiveTemplates/package.json] 
+2019-10-01 18:34:18,876 [  20922]   INFO - penapi.project.DumbServiceImpl - Running dumb mode task: initial refresh 
+2019-10-01 18:34:19,070 [  21116]   INFO - tor.impl.FileEditorManagerImpl - Project opening took 8956 ms 
+2019-10-01 18:34:19,070 [  21116]   INFO - llij.ide.plugins.PluginManager - JavaScript loaded 1268 classes 
+2019-10-01 18:34:19,070 [  21116]   INFO - llij.ide.plugins.PluginManager - com.intellij.css loaded 186 classes 
+2019-10-01 18:34:19,070 [  21116]   INFO - llij.ide.plugins.PluginManager - Dart loaded 162 classes 
+2019-10-01 18:34:19,070 [  21116]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.webDeployment loaded 107 classes 
+2019-10-01 18:34:19,070 [  21116]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks loaded 99 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - AngularJS loaded 94 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - Docker loaded 92 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.sass loaded 89 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - JSIntentionPowerPack loaded 87 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - spy-js loaded 69 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - org.editorconfig.editorconfigjetbrains loaded 69 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - Git4Idea loaded 61 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - XPathView loaded 61 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.restClient loaded 57 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.less loaded 57 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - Subversion loaded 57 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - JavaScriptDebugger loaded 52 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vue loaded 52 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - org.intellij.plugins.markdown loaded 50 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - hg4idea loaded 45 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.yaml loaded 38 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.settingsRepository loaded 37 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.meteor loaded 37 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - com.intellij.CloudConfig loaded 34 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - com.intellij.diagram loaded 32 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - com.dmarcotte.handlebars loaded 31 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - Refactor-X loaded 28 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - org.coffeescript loaded 28 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.jade loaded 26 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.stylus loaded 26 classes 
+2019-10-01 18:34:19,071 [  21117]   INFO - llij.ide.plugins.PluginManager - gherkin loaded 22 classes 
+2019-10-01 18:34:19,072 [  21118]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.lang.ejs loaded 21 classes 
+2019-10-01 18:34:19,072 [  21118]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.github loaded 21 classes 
+2019-10-01 18:34:19,072 [  21118]   INFO - llij.ide.plugins.PluginManager - HtmlTools loaded 21 classes 
+2019-10-01 18:34:19,072 [  21118]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.textmate loaded 20 classes 
+2019-10-01 18:34:19,072 [  21118]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.terminal loaded 19 classes 
+2019-10-01 18:34:19,072 [  21118]   INFO - llij.ide.plugins.PluginManager - NodeJS loaded 18 classes 
+2019-10-01 18:34:19,072 [  21118]   INFO - llij.ide.plugins.PluginManager - com.intellij.jsp loaded 17 classes 
+2019-10-01 18:34:19,072 [  21118]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.haml loaded 15 classes 
+2019-10-01 18:34:19,072 [  21118]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.remote-run loaded 14 classes 
+2019-10-01 18:34:19,072 [  21118]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.html.instantEditing loaded 14 classes 
+2019-10-01 18:34:19,072 [  21118]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.watcher loaded 13 classes 
+2019-10-01 18:34:19,073 [  21119]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.vagrant loaded 12 classes 
+2019-10-01 18:34:19,073 [  21119]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.performancePlugin loaded 11 classes 
+2019-10-01 18:34:19,073 [  21119]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.yeoman loaded 10 classes 
+2019-10-01 18:34:19,073 [  21119]   INFO - llij.ide.plugins.PluginManager - com.github.masahirosuzuka.PhoneGapIntelliJPlugin loaded 10 classes 
+2019-10-01 18:34:19,073 [  21119]   INFO - llij.ide.plugins.PluginManager - intellij.prettierJS loaded 9 classes 
+2019-10-01 18:34:19,073 [  21119]   INFO - llij.ide.plugins.PluginManager - tslint loaded 8 classes 
+2019-10-01 18:34:19,073 [  21119]   INFO - llij.ide.plugins.PluginManager - com.jetbrains.plugins.asp loaded 8 classes 
+2019-10-01 18:34:19,073 [  21119]   INFO - llij.ide.plugins.PluginManager - com.intellij.tasks.timeTracking loaded 7 classes 
+2019-10-01 18:34:19,073 [  21119]   INFO - llij.ide.plugins.PluginManager - com.intellij.copyright loaded 6 classes 
+2019-10-01 18:34:19,073 [  21119]   INFO - llij.ide.plugins.PluginManager - org.intellij.intelliLang loaded 5 classes 
+2019-10-01 18:34:19,074 [  21120]   INFO - llij.ide.plugins.PluginManager - com.intellij.plugins.webcomponents loaded 5 classes 
+2019-10-01 18:34:19,074 [  21120]   INFO - llij.ide.plugins.PluginManager - cucumber-javascript loaded 4 classes 
+2019-10-01 18:34:19,074 [  21120]   INFO - llij.ide.plugins.PluginManager - org.jetbrains.plugins.node-remote-interpreter loaded 3 classes 
+2019-10-01 18:34:19,074 [  21120]   INFO - llij.ide.plugins.PluginManager - MILiveTemplate.MILiveTemplate loaded 2 classes 
+2019-10-01 18:34:19,074 [  21120]   INFO - llij.ide.plugins.PluginManager - Karma loaded 1 classes 
+2019-10-01 18:34:19,553 [  21599]   INFO - penapi.project.DumbServiceImpl - updateFinished 
+2019-10-01 18:34:19,556 [  21602]   INFO - g.FileBasedIndexProjectHandler - Has changed files: false; project=Project '/Users/apple/WebstormProjects/MILiveTemplates' MILiveTemplates 
+2019-10-01 18:34:19,774 [  21820]   INFO - j.ide.ui.OptionsTopHitProvider - 207 ms spent to cache options in project 
+2019-10-01 18:34:19,774 [  21820]   INFO - tartup.impl.StartupManagerImpl - Some post-startup activities freeze UI for noticeable time. Please consider making them DumbAware to do them in background under modal progress, or just making them faster to speed up project opening. 
+2019-10-01 18:34:19,774 [  21820]   INFO - tartup.impl.StartupManagerImpl - Activity run in 207ms on UI thread 
+2019-10-01 18:34:19,844 [  21890]   INFO - son.PackageVersionRangeMatcher - Matching 10 done in 794 ms 
+2019-10-01 18:34:19,866 [  21912]   INFO - cloudConfig.CloudConfigManager - === StatusBar.start another widget: com.intellij.cloudConfig.StatusBarInfoManager$InfoComponent@4a313759 === 
+2019-10-01 18:34:20,311 [  22357]   INFO - j.ide.ui.OptionsTopHitProvider - 204 ms spent on EDT to cache options in project 
+2019-10-01 18:34:21,023 [  23069]   INFO - j.ide.plugins.RepositoryHelper - using cached plugin list (updated at 2019-10-01 18:34) 
+2019-10-01 18:34:21,127 [  23173]   INFO - cloudConfig.CloudConfigManager - === End.connect === 
+2019-10-01 18:34:30,478 [  32524]   INFO - cloudConfig.CloudConfigManager - === Start.updateConnection === 
+2019-10-01 18:34:30,483 [  32529]   INFO - cloudConfig.CloudConfigManager - === doConnect === 
+2019-10-01 18:34:30,483 [  32529]   INFO - cloudConfig.CloudConfigManager - === getConnectionState === 
+2019-10-01 18:34:32,054 [  34100]   INFO - cloudConfig.CloudConfigManager - === End.connect === 

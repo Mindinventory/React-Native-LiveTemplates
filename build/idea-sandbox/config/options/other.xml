@@ -1,0 +1,24 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/local/bin/node" />
+    <local-interpreter path="/usr/local/Cellar/node/12.10.0/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v12.3.1/bin/node">
+      <version-cache version="12.3.1" last-modified="1558528579000" />
+    </local-interpreter>
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v10.15.3/bin/node" />
+    <local-interpreter path="$USER_HOME$/.nvm/versions/node/v7.10.0/bin/node" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="FileTemplates.SelectedTemplate" value="HTML File" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="WebStorm.enableDefaultTooltipFixes" value="true" />
+    <property name="WebStorm.enableSmartQuotes" value="true" />
+    <property name="WebStorm.initialConfigurationShown" value="true" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/WebstormProjects/MILiveTemplates&#10;/Users/apple/WebstormProjects/Aaa&#10;/Users/apple/WebstormProjects/AA" />
+    <property name="file.gist.reindex.count" value="4305" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+    <property name="ts.lib.d.ts.version" value="3.4.1" />
+  </component>
+</application>

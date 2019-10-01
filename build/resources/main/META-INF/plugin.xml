@@ -1,0 +1,33 @@
+<idea-plugin url="https://plugins.jetbrains.com/author/0463a0ee-7345-44e5-84b4-a37a8d03559b">
+  <version>0.1</version>
+  <id>MILiveTemplate.MILiveTemplate</id>
+  <name>MILiveTemplates</name>
+  <vendor email="harsh.mindinventory@gmail.com" url="https://github.com/Mindinventory">Mindinventory</vendor>
+  <description>
+     Plugin for ReactNative with Live Template.&lt;br/&gt;
+
+     With MILiveTemplates plugin, user can find the following live templates while integrating the app in ReactNative.&lt;br/&gt;&lt;br/&gt;
+
+     &lt;b&gt;Live Templates&lt;/b&gt;&lt;br/&gt;
+     - classcomponent (Create the class with react component with necessary methods and state without redux)&lt;br/&gt;
+     - classcomponentwithredux (Create the class with react component with necessary methods and state with redux)&lt;br/&gt;
+     - storeWithThunk (Create store with Thunk for the redux)&lt;br/&gt;
+     - Flatlist (For UI)&lt;br/&gt;
+     - Image (For UI)&lt;br/&gt;
+     - ImageWithUri (For UI)&lt;br/&gt;
+     - Text (For UI)&lt;br/&gt;
+     - Model (For UI)&lt;br/&gt;
+     - TouchableOpacity (For UI)&lt;br/&gt;
+     - StyleSheet&lt;br/&gt;&lt;br/&gt;
+
+     &lt;b&gt;Show details in Preferences -&gt; Editor -&gt; Live Templates -&gt; MILiveTemplate&lt;/b&gt;
+    </description>
+  <idea-version since-build="182.0" until-build="191.*"/>
+  <depends>com.intellij.modules.lang</depends>
+  <depends>JavaScript</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <defaultLiveTemplatesProvider implementation="ReactTemplateProvider"/>
+    <liveTemplateContext implementation="MILiveTemplateContext"/>
+  </extensions>
+  <actions/>
+</idea-plugin>

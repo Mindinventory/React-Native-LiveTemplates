@@ -1,0 +1,12 @@
+<application>
+  <component name="DimensionService">
+    <location key="FileChooserDialogImpl.0.0.1600.900" x="588" y="143" />
+    <location key="WELCOME_SCREEN.0.0.1600.900" x="800" y="380" />
+    <location key="SettingsEditor.0.0.1600.900" x="294" y="78" />
+    <location key="#ESLint.0.0.1600.900" x="400" y="94" />
+    <location key="#com.intellij.codeInsight.template.impl.EditVariableDialog.0.0.1600.900" x="655" y="272" />
+    <location key="IDE.errors.dialog.0.0.1600.900" x="388" y="130" />
+    <size key="SettingsEditor.0.0.1600.900" width="1288" height="698" />
+    <size key="IDE.errors.dialog.0.0.1600.900" width="824" height="642" />
+  </component>
+</application>

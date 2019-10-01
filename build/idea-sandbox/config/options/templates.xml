@@ -1,0 +1,24 @@
+<application>
+  <component name="TemplateSettings">
+    <option name="deletedKeys">
+      <list>
+        <TemplateKey>
+          <option name="groupName" value="RN" />
+          <option name="key" value="rncomponent" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="RN" />
+          <option name="key" value="rncomponent1" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="RN" />
+          <option name="key" value="rncomponent2" />
+        </TemplateKey>
+        <TemplateKey>
+          <option name="groupName" value="RN" />
+          <option name="key" value="rncomponent4" />
+        </TemplateKey>
+      </list>
+    </option>
+  </component>
+</application>
