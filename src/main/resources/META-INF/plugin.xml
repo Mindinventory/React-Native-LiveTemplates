@@ -23,7 +23,7 @@
      <b>Show details in Preferences -> Editor -> Live Templates -> MILiveTemplate</b>
     ]]></description>
 
-    <idea-version since-build="182.0" until-build="191.*"/>
+    <idea-version since-build="182.0" until-build="192.*"/>
 
     <depends>com.intellij.modules.lang</depends>
     <depends>JavaScript</depends>
